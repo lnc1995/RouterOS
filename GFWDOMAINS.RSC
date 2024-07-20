@@ -295,6 +295,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=anpopo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=answering-islam.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=anthonycalzadilla.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=anthropic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=anti1984.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=antichristendom.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=antiwave.net
@@ -714,6 +715,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=blubrry.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=blueangellive.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bmfinn.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bnbstatic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bnews.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bnext.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bnn.co
@@ -1078,6 +1080,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cl.d0z.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=clarionproject.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=classicalguitarblog.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=claude.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=clb.org.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cldr.unicode.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cleansite.biz
@@ -4031,6 +4034,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=perfect-privacy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=perfectgirls.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=periscope.tv
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=perplexity.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=persecutionblog.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=persiankitty.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=phapluan.org
