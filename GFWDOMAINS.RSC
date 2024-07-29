@@ -431,6 +431,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=axureformac.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=azerbaycan.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=azerimix.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=azirevpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=azubu.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=azurewebsites.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=b-ok.cc
@@ -1101,6 +1102,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=clubhouseapi.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=clyp.it
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cmcn.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cmegroup.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cmi.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cmp.hku.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cms.gov
@@ -2799,6 +2801,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imageab.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imagefap.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imageflea.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imageglass.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=images-gaytube.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=images.comico.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imageshack.us
