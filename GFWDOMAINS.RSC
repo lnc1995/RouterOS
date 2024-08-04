@@ -2920,6 +2920,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ivacy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iverycd.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ivpn.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iwara.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ixquick.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ixxx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iyouport.com
@@ -5132,6 +5133,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tibetswiss.ch
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tibettelegraph.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tibettimes.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tibettruth.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tibetwrites.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ticket.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tigervpn.com
