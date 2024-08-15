@@ -1273,7 +1273,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dalailama.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dalailama.mn
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dalailama.ru
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dalailama.usc.edu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dalailama80.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dalailamacenter.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dalailamafellows.org
@@ -4799,6 +4798,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=store.steampowered.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=stories.google
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=storify.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=storj.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=storm.mg
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=stormmediagroup.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=stoweboyd.com
@@ -5482,6 +5482,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=us.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=usacn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=usaip.eu
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uscardforum.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uscnpm.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=userapi.nytlog.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=users.skynet.be
