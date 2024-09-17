@@ -3995,6 +3995,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=partypoker.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=passion.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=passiontimes.hk
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=passwords.google
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=paste.ee
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pastebin.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pastie.org
