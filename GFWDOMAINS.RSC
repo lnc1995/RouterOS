@@ -1663,6 +1663,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fa.gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=facebook.br
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=facebook.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=facebook.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=facebook.design
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=facebook.hu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=facebook.in
@@ -3394,6 +3395,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=meshrep.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mesotw.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=messenger.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=meta.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=metacafe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=metafilter.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=metart.com
@@ -5201,6 +5203,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=torrentproject.se
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=torrenty.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=torrentz.eu
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tortoisesvn.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=torvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tosh.comedycentral.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=totalvpn.com
