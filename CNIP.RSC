@@ -4714,6 +4714,7 @@ add address=159.27.192.0/18 list=CNIP
 add address=159.75.0.0/16 list=CNIP
 add address=16.2.142.0/23 list=CNIP
 add address=160.187.223.0/24 list=CNIP
+add address=160.187.252.0/22 list=CNIP
 add address=160.19.208.0/21 list=CNIP
 add address=160.19.216.0/22 list=CNIP
 add address=160.19.76.0/23 list=CNIP
