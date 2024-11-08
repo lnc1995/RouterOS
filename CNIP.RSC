@@ -494,7 +494,6 @@ add address=103.126.16.0/22 list=CNIP
 add address=103.126.16.0/23 list=CNIP
 add address=103.126.208.0/22 list=CNIP
 add address=103.126.44.0/22 list=CNIP
-add address=103.129.52.0/22 list=CNIP
 add address=103.13.12.0/22 list=CNIP
 add address=103.13.124.0/22 list=CNIP
 add address=103.13.144.0/22 list=CNIP
