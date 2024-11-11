@@ -502,7 +502,6 @@ add address=103.13.147.0/24 list=CNIP
 add address=103.13.196.0/22 list=CNIP
 add address=103.13.244.0/22 list=CNIP
 add address=103.130.132.0/22 list=CNIP
-add address=103.130.152.0/24 list=CNIP
 add address=103.130.160.0/22 list=CNIP
 add address=103.130.228.0/22 list=CNIP
 add address=103.131.138.0/23 list=CNIP
