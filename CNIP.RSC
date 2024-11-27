@@ -4803,10 +4803,12 @@ add address=160.25.10.0/23 list=CNIP
 add address=160.25.12.0/23 list=CNIP
 add address=160.25.194.0/23 list=CNIP
 add address=160.25.20.0/23 list=CNIP
+add address=160.250.102.0/23 list=CNIP
 add address=160.250.14.0/23 list=CNIP
 add address=160.250.16.0/22 list=CNIP
 add address=160.250.24.0/23 list=CNIP
 add address=160.250.84.0/23 list=CNIP
+add address=160.250.90.0/23 list=CNIP
 add address=160.30.148.0/22 list=CNIP
 add address=160.30.194.0/23 list=CNIP
 add address=160.30.196.0/22 list=CNIP
@@ -4876,6 +4878,7 @@ add address=168.160.0.0/16 list=CNIP
 add address=17.127.128.0/23 list=CNIP
 add address=17.127.130.0/24 list=CNIP
 add address=17.235.160.0/20 list=CNIP
+add address=17.81.161.0/24 list=CNIP
 add address=17.81.251.30/31 list=CNIP
 add address=17.85.164.128/25 list=CNIP
 add address=17.85.192.0/20 list=CNIP
@@ -7743,6 +7746,7 @@ add address=43.229.136.0/21 list=CNIP
 add address=43.229.144.0/22 list=CNIP
 add address=43.229.168.0/21 list=CNIP
 add address=43.229.176.0/20 list=CNIP
+add address=43.229.184.0/24 list=CNIP
 add address=43.229.192.0/21 list=CNIP
 add address=43.229.216.0/21 list=CNIP
 add address=43.229.216.0/22 list=CNIP
