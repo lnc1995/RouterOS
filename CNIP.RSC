@@ -4697,6 +4697,7 @@ add address=160.250.160.0/23 list=CNIP
 add address=160.250.170.0/23 list=CNIP
 add address=160.250.214.0/23 list=CNIP
 add address=160.250.24.0/23 list=CNIP
+add address=160.250.252.0/23 list=CNIP
 add address=160.250.84.0/23 list=CNIP
 add address=160.250.90.0/23 list=CNIP
 add address=160.30.148.0/22 list=CNIP
