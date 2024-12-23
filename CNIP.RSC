@@ -4713,6 +4713,7 @@ add address=161.163.0.0/21 list=CNIP
 add address=161.163.28.0/23 list=CNIP
 add address=161.189.0.0/16 list=CNIP
 add address=161.207.0.0/16 list=CNIP
+add address=161.248.20.0/23 list=CNIP
 add address=162.105.0.0/16 list=CNIP
 add address=162.14.0.0/16 list=CNIP
 add address=162.14.0.0/20 list=CNIP
