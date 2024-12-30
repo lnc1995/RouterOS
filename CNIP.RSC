@@ -535,7 +535,6 @@ add address=103.133.136.0/22 list=CNIP
 add address=103.133.176.0/22 list=CNIP
 add address=103.133.232.0/22 list=CNIP
 add address=103.133.40.0/22 list=CNIP
-add address=103.134.12.0/24 list=CNIP
 add address=103.134.196.0/22 list=CNIP
 add address=103.134.232.0/23 list=CNIP
 add address=103.135.124.0/22 list=CNIP

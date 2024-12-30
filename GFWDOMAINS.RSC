@@ -773,7 +773,8 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=brookings.edu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=brucewang.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=brutaltgp.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bt2mag.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.app
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.social
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bt95.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btaia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btbtav.com
@@ -1324,6 +1325,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=debug.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=deck.ly
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=decodet.co
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=deepai.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=deepmind.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=deezer.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=definebabe.com
@@ -1404,6 +1406,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dnsrd.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dnssec.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dnvod.tv
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=docs.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=doctorvoice.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=documentingreality.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dogfartnetwork.com
@@ -2452,16 +2455,12 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=h528.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=h5dm.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=h5galgame.me
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hacg.club
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hacg.in
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hacg.li
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hacg.me
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hacg.red
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hacken.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hacker.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hackmd.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hackthatphone.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hahlo.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=haijiao.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hakkatv.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=handcraftedsoftware.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hanime.tv
@@ -4557,6 +4556,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sharpdaily.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=shat-tibet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=shattered.io
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sheets.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sheikyermami.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=shellfire.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=shenshou.org
@@ -4640,6 +4640,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sleazydream.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=slheng.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=slickvpn.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=slides.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=slideshare.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=slinkset.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=slutload.com
@@ -4655,6 +4656,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=smith.edu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=smyxy.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=snapchat.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=snapseed.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=snaptu.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sndcdn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sneakme.net
@@ -5660,6 +5662,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vporn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vpser.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vraiesagesse.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vrchat.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vrmtr.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vrsmash.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vtunnel.com
@@ -5760,6 +5763,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wha.la
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=whatblocked.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=whatbrowser.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=whats.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=whatsapp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=whatsapp.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=whatsonweibo.com
