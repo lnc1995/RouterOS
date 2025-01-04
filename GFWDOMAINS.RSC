@@ -1128,6 +1128,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cna.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cnabc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cnbbnews.wordpress.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cnbeta.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cnd.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cnex.org.cn
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cnineu.com
