@@ -8780,7 +8780,8 @@ add address=8.144.0.0/14 list=CNIP
 add address=8.148.0.0/19 list=CNIP
 add address=8.148.128.0/17 list=CNIP
 add address=8.148.32.0/21 list=CNIP
-add address=8.148.40.0/24 list=CNIP
+add address=8.148.41.0/24 list=CNIP
+add address=8.148.42.0/23 list=CNIP
 add address=8.148.44.0/22 list=CNIP
 add address=8.148.48.0/20 list=CNIP
 add address=8.148.64.0/18 list=CNIP
