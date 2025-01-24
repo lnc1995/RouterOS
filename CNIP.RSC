@@ -7457,6 +7457,11 @@ add address=221.8.0.0/14 list=CNIP
 add address=222.125.0.0/16 list=CNIP
 add address=222.126.128.0/17 list=CNIP
 add address=222.126.128.0/19 list=CNIP
+add address=222.126.128.0/21 list=CNIP
+add address=222.126.136.0/23 list=CNIP
+add address=222.126.139.0/24 list=CNIP
+add address=222.126.140.0/22 list=CNIP
+add address=222.126.144.0/20 list=CNIP
 add address=222.126.160.0/21 list=CNIP
 add address=222.126.168.0/22 list=CNIP
 add address=222.126.172.0/23 list=CNIP
