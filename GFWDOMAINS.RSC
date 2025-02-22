@@ -1169,6 +1169,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=code1984.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=codeshare.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=codeskulptor.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cofacts.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coin2co.in
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coinbase.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coinbene.com
@@ -2454,6 +2455,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greenvpn.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greenvpn.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=grindr.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=grok.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=grotty-monday.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ground.news
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=groups.google.cn
