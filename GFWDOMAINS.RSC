@@ -790,6 +790,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=brucewang.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=brutaltgp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.app
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.network
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.social
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bt95.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btaia.com
