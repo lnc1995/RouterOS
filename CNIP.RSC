@@ -7901,8 +7901,9 @@ add address=43.230.224.0/19 list=CNIP
 add address=43.230.32.0/22 list=CNIP
 add address=43.230.68.0/22 list=CNIP
 add address=43.230.72.0/22 list=CNIP
-add address=43.231.12.0/22 list=CNIP
+add address=43.231.12.0/24 list=CNIP
 add address=43.231.136.0/21 list=CNIP
+add address=43.231.14.0/24 list=CNIP
 add address=43.231.144.0/20 list=CNIP
 add address=43.231.160.0/20 list=CNIP
 add address=43.231.160.0/21 list=CNIP
