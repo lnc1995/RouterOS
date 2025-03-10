@@ -1002,6 +1002,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chapm25.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=character.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chat.lmsys.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chat.openai.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chatgpt.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chatnook.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chaturbate.com
@@ -4082,7 +4083,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=oopsforum.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=open.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=open.firstory.me
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=openai.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=open.spotify.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=openallweb.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=opendemocracy.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=opendn.xyz
@@ -4944,7 +4945,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=spike.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sports.williamhill.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=spotflux.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=spotify.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=spreadsheet.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=spreadshirt.es
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=spreaker.com
