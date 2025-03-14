@@ -1831,7 +1831,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=farwestchina.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fast.wistia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fastestvpn.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fastgpt.run
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fastpic.ru
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fastssh.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=faststone.org
