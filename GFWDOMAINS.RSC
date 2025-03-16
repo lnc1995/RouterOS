@@ -327,6 +327,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aofriend.com.au
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aojiao.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aolchannels.aol.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aomedia.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aomiwang.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=apartmentratings.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=apartments.com
@@ -4354,7 +4355,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=powerphoto.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ppy.sh
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=prayforchina.net
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=premeforwindows7.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=prcleader.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=premproxy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=presentation.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=presentationzen.com
