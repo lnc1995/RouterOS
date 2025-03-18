@@ -8269,7 +8269,7 @@ add address=43.229.136.0/21 list=CNIP
 add address=43.229.144.0/22 list=CNIP
 add address=43.229.168.0/21 list=CNIP
 add address=43.229.176.0/20 list=CNIP
-add address=43.229.184.0/24 list=CNIP
+add address=43.229.184.0/22 list=CNIP
 add address=43.229.192.0/21 list=CNIP
 add address=43.229.216.0/21 list=CNIP
 add address=43.229.216.0/22 list=CNIP
