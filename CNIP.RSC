@@ -4911,19 +4911,15 @@ add address=139.189.0.0/16 list=CNIP
 add address=139.196.0.0/14 list=CNIP
 add address=139.196.0.0/15 list=CNIP
 add address=139.198.0.0/18 list=CNIP
-add address=139.198.0.0/21 list=CNIP
 add address=139.198.108.0/22 list=CNIP
 add address=139.198.114.0/23 list=CNIP
 add address=139.198.116.0/22 list=CNIP
-add address=139.198.12.0/23 list=CNIP
 add address=139.198.122.0/23 list=CNIP
 add address=139.198.124.0/22 list=CNIP
 add address=139.198.128.0/17 list=CNIP
-add address=139.198.14.0/24 list=CNIP
 add address=139.198.66.0/23 list=CNIP
 add address=139.198.68.0/22 list=CNIP
 add address=139.198.72.0/21 list=CNIP
-add address=139.198.8.0/22 list=CNIP
 add address=139.198.80.0/20 list=CNIP
 add address=139.198.96.0/20 list=CNIP
 add address=139.199.0.0/16 list=CNIP
@@ -8326,6 +8322,7 @@ add address=43.239.0.0/19 list=CNIP
 add address=43.239.116.0/22 list=CNIP
 add address=43.239.120.0/22 list=CNIP
 add address=43.239.172.0/22 list=CNIP
+add address=43.239.172.0/24 list=CNIP
 add address=43.239.176.0/22 list=CNIP
 add address=43.239.32.0/20 list=CNIP
 add address=43.239.48.0/22 list=CNIP
