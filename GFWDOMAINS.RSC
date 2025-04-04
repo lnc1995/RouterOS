@@ -426,6 +426,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=auctions.yahoo.co.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=audacy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=auntology.fandom.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=auth.openai.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=authorizeddns.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=authorizeddns.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=authorizeddns.us
@@ -4090,6 +4091,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=open.spotify.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=openallweb.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=opendemocracy.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=opendesktop.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=opendn.xyz
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=openervpn.in
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=openid.net
