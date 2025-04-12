@@ -425,6 +425,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=atnext.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=auctions.yahoo.co.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=audacy.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=audiomack.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=auntology.fandom.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=auth.openai.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=authorizeddns.net
@@ -1165,7 +1166,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloud.dify.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloud.mail.ru
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudflare-ipfs.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudfront.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudfunctions.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=club1069.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=clubhouseapi.com
@@ -4625,6 +4625,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-ap-southeast-1.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-ap-southeast-2.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3.eu-central-1.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s8forum.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sa.hao123.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sacks.com
