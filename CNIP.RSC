@@ -5317,6 +5317,9 @@ add address=163.223.28.0/23 list=CNIP
 add address=163.223.32.0/23 list=CNIP
 add address=163.227.34.0/23 list=CNIP
 add address=163.227.40.0/23 list=CNIP
+add address=163.227.74.0/23 list=CNIP
+add address=163.227.76.0/22 list=CNIP
+add address=163.227.80.0/23 list=CNIP
 add address=163.228.0.0/16 list=CNIP
 add address=163.244.246.0/24 list=CNIP
 add address=163.47.4.0/22 list=CNIP
