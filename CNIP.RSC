@@ -1512,8 +1512,7 @@ add address=103.238.160.0/19 list=CNIP
 add address=103.238.160.0/22 list=CNIP
 add address=103.238.18.0/23 list=CNIP
 add address=103.238.180.0/23 list=CNIP
-add address=103.238.184.0/23 list=CNIP
-add address=103.238.188.0/22 list=CNIP
+add address=103.238.184.0/21 list=CNIP
 add address=103.238.196.0/22 list=CNIP
 add address=103.238.20.0/22 list=CNIP
 add address=103.238.204.0/22 list=CNIP
