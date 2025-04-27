@@ -3945,6 +3945,8 @@ add address=117.104.168.0/21 list=CNIP
 add address=117.106.0.0/15 list=CNIP
 add address=117.112.0.0/13 list=CNIP
 add address=117.120.128.0/17 list=CNIP
+add address=117.120.160.0/19 list=CNIP
+add address=117.120.192.0/18 list=CNIP
 add address=117.120.64.0/18 list=CNIP
 add address=117.121.0.0/17 list=CNIP
 add address=117.121.0.0/19 list=CNIP
