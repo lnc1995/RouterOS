@@ -213,6 +213,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ai-kan.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ai-wen.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ai.binwang.me
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ai.google
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aiosearch.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aiph.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=airasia.com
@@ -3921,6 +3922,10 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nicovideo.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nighost.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nightswatch.top
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nikke-en.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nikke-jp.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nikke-kr.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nikke.hotcool.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nikkei.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ninecommentaries.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ninjacloak.com
@@ -3954,6 +3959,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nordstromrack.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nordvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nos.nl
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=notebooklm.google
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=notepad-plus-plus.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nottinghampost.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=novelasia.com
@@ -5401,6 +5407,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tigervpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktok.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokcdn-us.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokcdn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokv.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokv.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiltbrush.com
