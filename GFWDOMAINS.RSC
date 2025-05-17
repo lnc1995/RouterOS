@@ -520,6 +520,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bbs.mikocon.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bbs.morbell.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bbs.mychat.to
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bbs.naixi.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bbs.netbig.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bbs.nyinfor.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bbs.ozchinese.com
@@ -3307,6 +3308,8 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=lausan.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=lbank.info
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ld.hao123img.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ldplayer.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ldplayer.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=le-vpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=leafyvpn.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=lecloud.net
@@ -4660,6 +4663,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=safeguarddefenders.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=safervpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=safety.google
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sagernet.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=saintyculture.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=saiq.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sakuralive.com
@@ -5406,6 +5410,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ticket.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tigervpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktok.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokcdn-eu.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokcdn-us.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokcdn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tiktokv.com
