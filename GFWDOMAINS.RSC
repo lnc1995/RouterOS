@@ -271,6 +271,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=alwaysvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=am730.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=amazon.co.jp
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=amazonvideo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ameblo.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=americangreencard.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=americanunfinished.com
@@ -4382,6 +4383,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=presidentlee.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=prestige-av.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pride.google
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=primevideo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=prism-break.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=prisoneralert.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pritunl.com
