@@ -1,0 +1,19 @@
+/ip firewall address-list 
+remove [/ip firewall address-list find list=ReservedIP]
+add address=0.0.0.0/8 list=ReservedIP
+add address=10.0.0.0/8 list=ReservedIP
+add address=100.64.0.0/10 list=ReservedIP
+add address=127.0.0.0/8 list=ReservedIP
+add address=169.254.0.0/16 list=ReservedIP
+add address=172.16.0.0/12 list=ReservedIP
+add address=192.0.0.0/24 list=ReservedIP
+add address=192.0.2.0/24 list=ReservedIP
+add address=192.88.99.0/24 list=ReservedIP
+add address=192.168.0.0/16 list=ReservedIP
+add address=198.18.0.0/15 list=ReservedIP
+add address=198.51.100.0/24 list=ReservedIP
+add address=203.0.113.0/24 list=ReservedIP
+add address=224.0.0.0/4 list=ReservedIP
+add address=233.252.0.0/24 list=ReservedIP
+add address=240.0.0.0/4 list=ReservedIP
+add address=255.255.255.255/32 list=ReservedIP
