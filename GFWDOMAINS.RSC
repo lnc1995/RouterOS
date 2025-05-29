@@ -4632,9 +4632,15 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s1heng.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s1s1s1.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-ap-*.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-ap-northeast-1.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-ap-northeast-2.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-ap-southeast-1.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-ap-southeast-2.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3-eu-central-1.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3.ap-northeast-2.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3.eu-central-1.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s3.us-east-1.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=s8forum.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sa.hao123.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sacks.com
