@@ -1291,6 +1291,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ct.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctao.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctfriend.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctinews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctitv.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctowc.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cts.com.tw
