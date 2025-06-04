@@ -959,6 +959,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cdjp.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cdn-images.mailchimp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cdn-telegram.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cdn.arstechnica.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cdn.assets.lfpcontent.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cdn.helixstudios.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cdn.jwplayer.com
@@ -1119,6 +1120,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=churchinhongkong.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chushigangdrug.ch
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ci-en.jp
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cici.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ciciai.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cienen.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cineastentreff.de
