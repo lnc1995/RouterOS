@@ -132,6 +132,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=8z1.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=9001700.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=908taiwan.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=91dasai.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=91porn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=91porny.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=91vps.club
@@ -1213,6 +1214,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=codeshare.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=codeskulptor.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cofacts.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coffeemanga.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coin2co.in
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coinbase.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coinbene.com
