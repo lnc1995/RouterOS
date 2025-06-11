@@ -3360,6 +3360,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=line.naver.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=linear-abematv.akamaized.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=linglingfa.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=lingualeo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=lingvodics.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=link-o-rama.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=linkedin.com
