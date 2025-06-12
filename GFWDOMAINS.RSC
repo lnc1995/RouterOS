@@ -1264,6 +1264,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coursehero.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coze.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cpj.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cpu-monkey.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cq99.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=crackle.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=crazypool.org
@@ -2850,7 +2851,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=huyandex.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hwadzan.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hwayue.org.tw
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hwinfo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hxwk.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hxwq.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hybrid-analysis.com
