@@ -1967,6 +1967,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=githubassets.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=githubcopilot.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=githubusercontent.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gitlab.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gizlen.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gjczz.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=glarity.app
@@ -2394,6 +2395,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=himalayanglacier.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=himemix.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hindustantimes.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hinet.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hitbtc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hitomi.la
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hiveon.net
