@@ -3682,6 +3682,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=onmypc.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=onthehunt.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ontrac.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=oojj.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=open.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=open.firstory.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=openai.com
