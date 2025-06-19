@@ -1741,6 +1741,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=focusvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fofg.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fooooo.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=forbes.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=foreignaffairs.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=foreignpolicy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=form.new
