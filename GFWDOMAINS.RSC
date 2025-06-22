@@ -355,6 +355,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=artofpeacefoundation.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=artstation.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=artsy.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=arvanstorage.ir
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asacp.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asdfg.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asg.to
@@ -2264,6 +2265,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gotquestions.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gotrusted.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gotw.ca
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gov.ir
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gov.taipei
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gr8domain.biz
@@ -2703,7 +2705,9 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iptv.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iptvbin.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ipvanish.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=irangov.ir
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iredmail.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=irna.ir
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ironpython.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ironsocket.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=is-a-hunter.com
@@ -3938,6 +3942,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=premproxy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=presentation.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=presentationzen.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=president.ir
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=presidentlee.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=prestige-av.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=primevideo.com
