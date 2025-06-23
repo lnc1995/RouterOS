@@ -1044,6 +1044,8 @@ add address=103.200.144.0/21 list=CNIP
 add address=103.200.160.0/19 list=CNIP
 add address=103.200.192.0/22 list=CNIP
 add address=103.200.220.0/22 list=CNIP
+add address=103.200.221.0/24 list=CNIP
+add address=103.200.222.0/24 list=CNIP
 add address=103.200.224.0/19 list=CNIP
 add address=103.200.52.0/22 list=CNIP
 add address=103.200.64.0/21 list=CNIP
