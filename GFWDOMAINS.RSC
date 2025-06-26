@@ -924,7 +924,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chenshan20042005.wordpress.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cherrysave.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chhongbi.org
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=chicagoncmtv.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=china-mmm.jp.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=china-mmm.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=china-review.com.ua
@@ -1790,8 +1789,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freedominfonetweb.wordpress.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freedomsherald.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freeforums.org
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freefq.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freefuckvids.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freegao.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freehongkong.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freeilhamtohti.org
@@ -4053,6 +4050,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=radioline.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=radiovaticana.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=radiovncr.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=radmin-vpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=rael.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=raggedbanner.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=raidcall.com.tw
