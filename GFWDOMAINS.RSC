@@ -1350,6 +1350,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dongtaiwang.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dongyangjing.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dontfilter.us
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=doom9.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=doosho.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=doourbest.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dorjeshugden.com

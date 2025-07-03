@@ -5370,6 +5370,7 @@ add address=164.52.0.0/17 list=CNIP
 add address=164.52.52.0/24 list=CNIP
 add address=164.52.74.0/24 list=CNIP
 add address=164.52.80.0/24 list=CNIP
+add address=165.101.122.0/23 list=CNIP
 add address=165.101.4.0/23 list=CNIP
 add address=165.101.66.0/23 list=CNIP
 add address=165.101.70.0/23 list=CNIP
