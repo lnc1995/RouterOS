@@ -414,7 +414,6 @@ add address=103.116.40.0/22 list=CNIP
 add address=103.116.42.0/24 list=CNIP
 add address=103.116.64.0/22 list=CNIP
 add address=103.116.64.0/23 list=CNIP
-add address=103.116.72.0/21 list=CNIP
 add address=103.116.76.0/22 list=CNIP
 add address=103.116.92.0/22 list=CNIP
 add address=103.117.16.0/22 list=CNIP
