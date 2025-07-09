@@ -1432,6 +1432,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=e-info.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=e-zone.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=e123.hk
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=e621.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=earlytibet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=earthcam.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=earthvpn.com

@@ -5122,6 +5122,7 @@ add address=150.242.112.0/21 list=CNIP
 add address=150.242.120.0/22 list=CNIP
 add address=150.242.152.0/21 list=CNIP
 add address=150.242.152.0/22 list=CNIP
+add address=150.242.156.0/23 list=CNIP
 add address=150.242.160.0/21 list=CNIP
 add address=150.242.168.0/22 list=CNIP
 add address=150.242.184.0/21 list=CNIP
