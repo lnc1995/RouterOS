@@ -5606,6 +5606,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.thechinastory.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.wan-press.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.websnapr.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.xicons.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.zensur.freerk.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www1.american.edu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www1.biz
