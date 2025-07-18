@@ -5133,6 +5133,7 @@ add address=150.242.232.0/21 list=CNIP
 add address=150.242.232.0/22 list=CNIP
 add address=150.242.238.0/23 list=CNIP
 add address=150.242.240.0/21 list=CNIP
+add address=150.242.244.0/22 list=CNIP
 add address=150.242.248.0/22 list=CNIP
 add address=150.242.28.0/22 list=CNIP
 add address=150.242.44.0/22 list=CNIP
