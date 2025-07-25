@@ -5711,6 +5711,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=yam.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=yande.re
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=yanghengjun.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=yangzhi.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=yasni.co.uk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=yasukuni.or.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=yayabay.com
