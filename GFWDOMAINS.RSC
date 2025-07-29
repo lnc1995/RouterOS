@@ -5381,6 +5381,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wahas.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=waikeung.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wainao.me
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=walletconnect.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wallmama.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wallpapercasa.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wallproxy.com
