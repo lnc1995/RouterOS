@@ -5615,6 +5615,8 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www2.ohchr.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www2.rocketbbs.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wwwhost.biz
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wxw.cat
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wxw.moe
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wzyboy.im
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=x-art.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=x-berry.com
