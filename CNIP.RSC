@@ -8709,6 +8709,7 @@ add address=45.115.132.0/22 list=CNIP
 add address=45.115.144.0/22 list=CNIP
 add address=45.115.156.0/22 list=CNIP
 add address=45.115.164.0/22 list=CNIP
+add address=45.115.18.0/23 list=CNIP
 add address=45.115.200.0/22 list=CNIP
 add address=45.115.212.0/22 list=CNIP
 add address=45.115.216.0/22 list=CNIP
