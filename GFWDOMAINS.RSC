@@ -551,6 +551,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bitcointalk.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bitcoinworld.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bitfinex.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bitget.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bithumb.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bitmex.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bitshare.com
@@ -1046,6 +1047,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=clipfish.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloud.dify.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloud.mail.ru
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudflare-dns.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudflare-ipfs.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudfunctions.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=club1069.com
@@ -5174,6 +5176,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=unstable.icu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=unwire.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uocn.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=upbit.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=updates.tdesktop.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=upghsbc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=upholdjustice.org
@@ -5595,7 +5598,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.moztw.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.msn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.nbc.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.nodeloc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.owind.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.oxid.it
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=www.powerpointninja.com

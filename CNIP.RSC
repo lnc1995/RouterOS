@@ -1523,8 +1523,6 @@ add address=103.239.152.0/21 list=CNIP
 add address=103.239.152.0/22 list=CNIP
 add address=103.239.180.0/22 list=CNIP
 add address=103.239.184.0/22 list=CNIP
-add address=103.239.184.0/24 list=CNIP
-add address=103.239.186.0/23 list=CNIP
 add address=103.239.192.0/21 list=CNIP
 add address=103.239.192.0/22 list=CNIP
 add address=103.239.204.0/22 list=CNIP
