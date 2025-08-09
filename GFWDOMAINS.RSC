@@ -3164,6 +3164,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=matters.town
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=matthewdgreen.wordpress.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mattwilcox.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=maven.neoforged.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=maxing.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mayimayi.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mcadforums.com
