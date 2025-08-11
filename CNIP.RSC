@@ -3071,6 +3071,11 @@ add address=106.3.96.0/19 list=CNIP
 add address=106.32.0.0/12 list=CNIP
 add address=106.4.0.0/14 list=CNIP
 add address=106.48.0.0/15 list=CNIP
+add address=106.48.128.0/17 list=CNIP
+add address=106.48.16.0/20 list=CNIP
+add address=106.48.32.0/19 list=CNIP
+add address=106.48.64.0/18 list=CNIP
+add address=106.49.0.0/16 list=CNIP
 add address=106.50.0.0/16 list=CNIP
 add address=106.52.0.0/14 list=CNIP
 add address=106.56.0.0/13 list=CNIP
