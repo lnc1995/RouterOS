@@ -514,6 +514,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bet365.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=betaclouds.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=betfair.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=betterhash.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=betternet.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bettervpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bettween.com
@@ -2372,6 +2373,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=heqinglian.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=heritage.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=herokuapp.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=herominers.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hexieshe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hexieshe.xyz
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hexxeh.net
@@ -2742,6 +2744,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itaiwan.gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=italiatibet.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itasoftware.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itch.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itemdb.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itemfix.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ithelp.ithome.com.tw
