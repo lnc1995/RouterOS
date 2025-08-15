@@ -4615,6 +4615,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=surrenderat20.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=svsfx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=swagbucks.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=swapspace.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=swissinfo.ch
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=swissvpn.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=switch1.jp
