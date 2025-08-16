@@ -3766,6 +3766,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=paljorpublications.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=paltalk.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=panamapapers.sueddeutsche.de
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pancakeswap.finance
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pandafan.pub
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pandapow.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pandapow.net
@@ -3832,6 +3833,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=perplexity.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=persecutionblog.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=persiankitty.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pewresearch.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=phapluan.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=phayul.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=philborges.com
@@ -3961,6 +3963,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=prisoneralert.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=pritunl.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=privacybox.de
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=privacyguides.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=private.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=privateinternetaccess.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=privatepaste.com
