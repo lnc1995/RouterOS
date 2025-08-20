@@ -5152,6 +5152,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=udn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=udn.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=udnbkk.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=udomain.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uforadio.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ufreevpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ugo.com
