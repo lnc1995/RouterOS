@@ -2751,6 +2751,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itemdb.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itemfix.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ithelp.ithome.com.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itiger.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itsaol.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itshidden.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=itsky.it
