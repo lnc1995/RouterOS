@@ -1134,6 +1134,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cotweet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=counter.social
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coursehero.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=covenantswatch.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=coze.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cpj.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cpu-monkey.com
