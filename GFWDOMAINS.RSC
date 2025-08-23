@@ -1855,6 +1855,8 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ftx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fucd.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fuchsia.dev
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fuckccp.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fuckccp.xyz
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fuckgfw.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fulione.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fullerconsideration.com
