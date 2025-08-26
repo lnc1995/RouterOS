@@ -1683,6 +1683,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fdc89.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=feedburner.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=feeder.co
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=feedly.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=feeds.fileforum.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=feedx.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=feelssh.com
@@ -3313,6 +3314,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mog.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mohu.club
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mohu.rocks
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=moj.gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mojim.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mol.gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=molihua.org
