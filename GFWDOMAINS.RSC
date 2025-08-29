@@ -1373,6 +1373,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=doujincafe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=download.aircrack-ng.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=download.cnet.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dpdns.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dphk.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dpool.top
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dpp.org.tw
