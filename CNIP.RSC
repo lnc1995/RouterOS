@@ -29,6 +29,7 @@ add address=1.118.3.0/24 list=CNIP
 add address=1.118.32.0/19 list=CNIP
 add address=1.118.32.0/22 list=CNIP
 add address=1.118.36.0/22 list=CNIP
+add address=1.118.36.0/24 list=CNIP
 add address=1.118.4.0/22 list=CNIP
 add address=1.118.40.0/21 list=CNIP
 add address=1.118.48.0/20 list=CNIP
