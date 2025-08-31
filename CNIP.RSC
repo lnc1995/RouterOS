@@ -9933,8 +9933,10 @@ add address=43.229.232.0/21 list=CNIP
 add address=43.229.236.0/22 list=CNIP
 add address=43.229.40.0/22 list=CNIP
 add address=43.229.48.0/22 list=CNIP
+add address=43.229.48.0/23 list=CNIP
 add address=43.229.49.0/24 list=CNIP
 add address=43.229.50.0/23 list=CNIP
+add address=43.229.51.0/24 list=CNIP
 add address=43.229.56.0/22 list=CNIP
 add address=43.229.96.0/22 list=CNIP
 add address=43.230.124.0/22 list=CNIP
