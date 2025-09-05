@@ -738,6 +738,8 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.app
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.network
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bsky.social
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bt4g.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bt4gprx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=bt95.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btaia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btbit.net
@@ -4685,6 +4687,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=talkonly.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tanc.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tangren.us
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tanks.gg
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=taoism.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tapanwap.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tapatalk.com
