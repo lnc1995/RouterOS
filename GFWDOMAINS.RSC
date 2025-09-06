@@ -2711,6 +2711,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iphonetaiwan.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=iphonix.fr
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ipicture.ru
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ipify.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ipjetable.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ipobar.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ipoock.com
