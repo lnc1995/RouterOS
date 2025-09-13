@@ -3188,6 +3188,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mcaf.ee
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mcfog.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mcreasite.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mcusercontent.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=md-t.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=me.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=me.ns.ci
@@ -4383,6 +4384,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=simpleproductivityblog.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=simpleswap.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=simplex.chat
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sina.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=sinchew.com.my
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=singaporepools.com.sg
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=singfortibet.com
@@ -4683,6 +4685,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=taiwanus.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=taiwanyes.ning.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=talk853.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=talkatone.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=talkboxapp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=talkcc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=talkonly.net
