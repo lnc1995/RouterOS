@@ -1907,6 +1907,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gardennetworks.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gardennetworks.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gartlive.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=garudalinux.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gate.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gatecoin.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gather.com
@@ -1982,6 +1983,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=githubassets.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=githubcopilot.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=githubusercontent.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gitlab.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gitlab.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gizlen.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=gjczz.com
@@ -3563,6 +3565,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ninjacloak.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ninjaproxy.ninja
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nintendium.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nirsoft.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nitter.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=nitter.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=niu.moe
@@ -5399,6 +5402,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vpnworldwide.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vporn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vpser.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vpsxb.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vraiesagesse.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vrchat.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vrmtr.com
