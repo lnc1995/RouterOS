@@ -5164,7 +5164,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uberproxy.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uc-japan.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uchicago.edu
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=uderzo.it
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=udn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=udn.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=udnbkk.com
