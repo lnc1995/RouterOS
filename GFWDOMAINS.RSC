@@ -307,6 +307,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=api-secure.recaptcha.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=api-verify.recaptcha.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=api.ai
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=api.palworldgame.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=api.pureapk.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=api.recaptcha.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=api.steampowered.com
@@ -3665,6 +3666,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ocreampies.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ocry.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=october-review.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=octocaptcha.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=oculus.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=oculuscdn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=odysee.com
