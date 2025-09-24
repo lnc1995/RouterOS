@@ -1171,6 +1171,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=csw.org.uk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ct.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctao.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctinets.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctinews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctitv.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ctowc.org
@@ -2701,6 +2702,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=internetdefenseleague.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=internetfreedom.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=internetpopculture.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=interseclab.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=inthenameofconfuciusmovie.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=investigating.wordpress.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=invidio.us
