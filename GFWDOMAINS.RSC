@@ -5538,6 +5538,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikimapia.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikimedia.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikinews.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikipedia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikipedia.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikisource.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikiversity.org
