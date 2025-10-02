@@ -4700,8 +4700,10 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tangren.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tanks.gg
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=taoism.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tap.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tapanwap.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tapatalk.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=taptap.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tardigrade.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tarr.uspto.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=taup.net
