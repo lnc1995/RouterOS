@@ -121,6 +121,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=91vps.club
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=92ccav.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=991.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=996.icu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=99btgc01.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=99cn.info
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=9bis.com
