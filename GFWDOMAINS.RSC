@@ -5322,6 +5322,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vilanet.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vilavpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vimeo.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vimeocdn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vimperator.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vincnd.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=vine.co
