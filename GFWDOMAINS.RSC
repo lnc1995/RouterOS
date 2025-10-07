@@ -4480,6 +4480,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=solarsystem.nasa.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=solidaritetibet.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=solidfiles.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=solscan.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=solv.finance
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=somee.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=songjianjun.com
