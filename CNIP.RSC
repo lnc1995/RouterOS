@@ -3435,6 +3435,7 @@ add address=113.212.0.0/18 list=CNIP
 add address=113.212.100.0/22 list=CNIP
 add address=113.212.184.0/21 list=CNIP
 add address=113.213.0.0/17 list=CNIP
+add address=113.213.0.0/18 list=CNIP
 add address=113.213.64.0/19 list=CNIP
 add address=113.213.96.0/20 list=CNIP
 add address=113.214.0.0/15 list=CNIP
