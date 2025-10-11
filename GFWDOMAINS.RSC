@@ -1806,6 +1806,8 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freedomsherald.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freeforums.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freegao.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freegpt.es
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freegpt.tech
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freehongkong.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freeilhamtohti.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=freekazakhs.org
