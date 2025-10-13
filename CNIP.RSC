@@ -6077,7 +6077,6 @@ add address=160.19.208.0/22 list=CNIP
 add address=160.19.216.0/22 list=CNIP
 add address=160.19.76.0/23 list=CNIP
 add address=160.19.82.0/23 list=CNIP
-add address=160.19.82.0/24 list=CNIP
 add address=160.191.0.0/23 list=CNIP
 add address=160.191.0.0/24 list=CNIP
 add address=160.191.104.0/23 list=CNIP
