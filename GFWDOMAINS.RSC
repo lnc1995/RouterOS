@@ -366,6 +366,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asiaharvest.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asianage.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asianews.it
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asianfanfics.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asiansexdiary.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asiaone.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=asiatgp.com
@@ -5017,6 +5018,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=trtc.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=truebuddha-md.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=trulyergonomic.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=trustwallet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=truthsocial.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=truveo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tryheart.jp
@@ -5846,6 +5848,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=z-lib.gl
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=z-lib.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=z-lib.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=z-library.ec
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=z-library.sk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=zacebook.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=zalmos.com
