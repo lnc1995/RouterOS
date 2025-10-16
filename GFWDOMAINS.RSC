@@ -755,7 +755,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btcbank.bank
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btctrade.im
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btdig.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btdigg.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btguard.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btku.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=btku.org
@@ -5476,6 +5475,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=webrtc.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=webrush.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=webs-tv.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=websdr.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=website.informer.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=website.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=websitepulse.com
@@ -5723,6 +5723,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--noss43i.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--oiq.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--p8j9a0d9c9a.xn--q9jyb4c
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--u2u927b.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xnpool.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xnxx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xpdo.net
