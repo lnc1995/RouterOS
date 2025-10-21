@@ -735,7 +735,7 @@ add address=103.150.72.0/23 list=CNIP
 add address=103.151.142.0/23 list=CNIP
 add address=103.151.148.0/23 list=CNIP
 add address=103.151.158.0/23 list=CNIP
-add address=103.151.178.0/23 list=CNIP
+add address=103.151.179.0/24 list=CNIP
 add address=103.151.216.0/23 list=CNIP
 add address=103.151.228.0/23 list=CNIP
 add address=103.152.120.0/22 list=CNIP
@@ -4415,7 +4415,7 @@ add address=118.126.64.0/18 list=CNIP
 add address=118.126.8.0/21 list=CNIP
 add address=118.127.128.0/19 list=CNIP
 add address=118.132.0.0/14 list=CNIP
-add address=118.143.198.0/23 list=CNIP
+add address=118.143.199.0/24 list=CNIP
 add address=118.143.215.0/24 list=CNIP
 add address=118.144.0.0/14 list=CNIP
 add address=118.144.0.0/16 list=CNIP
@@ -6084,6 +6084,7 @@ add address=160.19.208.0/22 list=CNIP
 add address=160.19.216.0/22 list=CNIP
 add address=160.19.76.0/23 list=CNIP
 add address=160.19.82.0/23 list=CNIP
+add address=160.19.82.0/24 list=CNIP
 add address=160.191.0.0/23 list=CNIP
 add address=160.191.0.0/24 list=CNIP
 add address=160.191.104.0/23 list=CNIP
@@ -6171,7 +6172,6 @@ add address=163.142.0.0/16 list=CNIP
 add address=163.177.0.0/16 list=CNIP
 add address=163.179.0.0/16 list=CNIP
 add address=163.204.0.0/16 list=CNIP
-add address=163.223.173.0/24 list=CNIP
 add address=163.223.178.0/23 list=CNIP
 add address=163.228.0.0/16 list=CNIP
 add address=163.244.246.0/24 list=CNIP
@@ -6701,6 +6701,7 @@ add address=193.119.6.0/24 list=CNIP
 add address=193.119.8.0/23 list=CNIP
 add address=193.119.8.0/24 list=CNIP
 add address=193.200.222.160/28 list=CNIP
+add address=193.233.49.0/24 list=CNIP
 add address=194.127.229.0/24 list=CNIP
 add address=194.138.136.0/24 list=CNIP
 add address=194.138.202.0/23 list=CNIP
@@ -8443,7 +8444,6 @@ add address=203.99.80.0/20 list=CNIP
 add address=204.13.175.0/24 list=CNIP
 add address=204.55.160.0/24 list=CNIP
 add address=204.79.135.24/32 list=CNIP
-add address=207.226.153.0/24 list=CNIP
 add address=207.226.154.0/24 list=CNIP
 add address=210.12.0.0/15 list=CNIP
 add address=210.12.0.0/16 list=CNIP
