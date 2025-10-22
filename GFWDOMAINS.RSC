@@ -1349,6 +1349,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=doc.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=docker.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=docker.io
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=dockerstatus.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=docs.deno.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=docs.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=doctorvoice.org
