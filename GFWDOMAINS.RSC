@@ -4757,6 +4757,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=telesco.pe
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tellapart.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tellme.pw
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=temu.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tenacy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tenor.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=tensorflow.org
