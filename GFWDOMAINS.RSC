@@ -1736,6 +1736,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=flecheinthepeche.fr
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fleshbot.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=fleursdeslettres.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=flexclip.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=flexpool.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=flgjustice.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=flickr.com
