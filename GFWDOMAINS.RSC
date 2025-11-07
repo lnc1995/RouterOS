@@ -2654,6 +2654,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imageflea.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imageglass.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=images-gaytube.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=images.prismic.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imageshack.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imagevenue.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=imagezilla.net
