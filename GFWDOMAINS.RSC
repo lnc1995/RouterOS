@@ -1276,9 +1276,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=definebabe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=deja.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=delcamp.net
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=delicious.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=demo.unlock-music.dev
-add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=democrats.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=demosisto.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=deno.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=depositphotos.com
