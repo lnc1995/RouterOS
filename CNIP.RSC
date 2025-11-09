@@ -9578,7 +9578,6 @@ add address=38.101.160.40/32 list=CNIP
 add address=38.101.162.120/32 list=CNIP
 add address=38.111.220.0/23 list=CNIP
 add address=38.211.199.0/24 list=CNIP
-add address=38.213.146.0/24 list=CNIP
 add address=39.0.0.0/24 list=CNIP
 add address=39.0.128.0/17 list=CNIP
 add address=39.0.16.0/20 list=CNIP
