@@ -169,6 +169,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=addons.mozilla.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=addyoutube.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=adelaidebbs.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=adguard-vpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=admin.recaptcha.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=admob.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=adpl.org.hk
@@ -2376,6 +2377,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=have8.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hbg.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hbo.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hbomax.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hclips.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hd.stheadline.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=hdtvb.net
@@ -3318,6 +3320,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mixx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mizzmona.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mjib.gov.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mjj.rip
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mjlsh.usc.cuhk.edu.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mlc.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mlcool.com
@@ -4230,6 +4233,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=rumble.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=runbtx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=rushbee.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=rustdesk.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=rusvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ruten.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=rutracker.net
