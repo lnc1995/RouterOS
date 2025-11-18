@@ -194,6 +194,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=agoogleaday.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=agro.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ai.binwang.me
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=ai.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aiosearch.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=aiph.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=airasia.com
