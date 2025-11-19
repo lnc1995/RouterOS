@@ -1064,6 +1064,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloud.mail.ru
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudflare-dns.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudflare-ipfs.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudflarestatus.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=cloudfunctions.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=club1069.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=clubhouseapi.com
@@ -3051,6 +3052,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=liberal.org.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=libertysculpturepark.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=libertytimes.com.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=library-access.sk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=library.usc.cuhk.edu.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=libredd.it
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=lifemiles.com
@@ -3276,6 +3278,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=middle-way.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mihr.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mihua.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mij.rip
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mikanani.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mike.cz.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mikesoltys.com
@@ -3320,6 +3323,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mixpod.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mixx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mizzmona.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mji.rip
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mjib.gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mjj.rip
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=mjlsh.usc.cuhk.edu.hk
@@ -5741,6 +5745,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xmovies.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--11xs86f.icu
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--4gq171p.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--9iqy04a7fi01l.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--9pr62r24a.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--czq75pvv1aj5c.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=xn--i2ru8q2qg.com
