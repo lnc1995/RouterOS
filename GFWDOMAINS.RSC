@@ -2311,6 +2311,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greasyfork.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greatfire.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greatfire.us7.list-manage.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greatfirevpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greatfirewall.biz
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greatfirewallofchina.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=greatroc.org
@@ -5579,6 +5580,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes n
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikipedia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikipedia.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikisource.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikiunblocked.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikiversity.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikivoyage.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomains match-subdomain=yes name=wikiwand.com
