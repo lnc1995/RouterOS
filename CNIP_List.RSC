@@ -8696,8 +8696,9 @@ add address=211.159.128.0/17 list=CNIP_List
 add address=211.159.64.0/21 list=CNIP_List
 add address=211.160.0.0/13 list=CNIP_List
 add address=211.160.0.0/22 list=CNIP_List
-add address=211.160.112.0/22 list=CNIP_List
-add address=211.160.120.0/23 list=CNIP_List
+add address=211.160.112.0/23 list=CNIP_List
+add address=211.160.115.0/24 list=CNIP_List
+add address=211.160.120.0/24 list=CNIP_List
 add address=211.160.14.0/23 list=CNIP_List
 add address=211.160.16.0/21 list=CNIP_List
 add address=211.160.160.0/19 list=CNIP_List
