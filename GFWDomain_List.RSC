@@ -295,6 +295,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=antichristendom.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=antiwave.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=antpool.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anuneko.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anyporn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anysex.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ao3.org
@@ -2841,6 +2842,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=jetos.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=jex.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=jgoodies.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=jhelab.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=jiangweiping.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=jiaoyou8.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=jiehua.cz
@@ -3945,6 +3947,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=podbean.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=podcast.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=podictionary.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=podwise.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=poe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=points-media.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pokerstars.com
@@ -4111,9 +4114,11 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiko.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radio-canada.ca
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radio-en-ligne.fr
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radio.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radio.garden
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radioaustralia.net.au
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiohilight.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiojar.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radioline.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiovaticana.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiovncr.com
