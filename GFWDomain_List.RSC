@@ -557,6 +557,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bit-z.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bit.do
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bit.ly
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitbaby.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitbay.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitchute.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitcointalk.org
@@ -2633,6 +2634,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=icu-project.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=id.hao123.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=id.heroku.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=idcflare.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=idemocracy.asia
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=identi.ca
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=idiomconnection.com
