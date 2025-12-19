@@ -3837,6 +3837,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=parler.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=parse.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=parsevideo.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=partnerstack.xyz
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=partycasino.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=partypoker.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=passion.com

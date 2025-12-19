@@ -10490,6 +10490,7 @@ add address=45.249.112.0/22 list=CNIP_List
 add address=45.249.12.0/22 list=CNIP_List
 add address=45.249.16.0/20 list=CNIP_List
 add address=45.249.188.0/22 list=CNIP_List
+add address=45.249.188.0/24 list=CNIP_List
 add address=45.249.192.0/20 list=CNIP_List
 add address=45.249.208.0/21 list=CNIP_List
 add address=45.249.208.0/23 list=CNIP_List
