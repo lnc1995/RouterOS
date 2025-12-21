@@ -4604,6 +4604,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=startuplivingchina.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=stat.gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=static-economist.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=static.pocketcasts.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=static.shemalez.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=static01.nyt.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=staticflickr.com

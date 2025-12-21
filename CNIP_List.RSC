@@ -5847,6 +5847,7 @@ add address=144.48.88.0/22 list=CNIP_List
 add address=144.52.0.0/16 list=CNIP_List
 add address=144.7.0.0/16 list=CNIP_List
 add address=144.7.0.0/17 list=CNIP_List
+add address=144.79.70.0/23 list=CNIP_List
 add address=145.14.71.0/24 list=CNIP_List
 add address=145.14.72.0/22 list=CNIP_List
 add address=145.14.81.0/24 list=CNIP_List
