@@ -2383,7 +2383,6 @@ add address=103.72.172.0/24 list=CNIP_List
 add address=103.72.180.0/22 list=CNIP_List
 add address=103.72.224.0/19 list=CNIP_List
 add address=103.72.224.0/21 list=CNIP_List
-add address=103.72.224.0/24 list=CNIP_List
 add address=103.72.32.0/20 list=CNIP_List
 add address=103.72.48.0/21 list=CNIP_List
 add address=103.73.0.0/19 list=CNIP_List
