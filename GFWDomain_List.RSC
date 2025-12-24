@@ -3511,6 +3511,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nemesis2.qx.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=neo-miracle.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=neowin.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nephobox.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=netalert.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=netbirds.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=netcolony.com
