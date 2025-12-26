@@ -1019,7 +1019,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromecast.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromeexperiments.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromestatus.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromium.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chuang-yen.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chubold.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chubun.com
@@ -3126,6 +3125,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=looktoronto.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lotsawahouse.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lotuslight.org.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lovart.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lovetvshow.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lpsg.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lrfz.com
