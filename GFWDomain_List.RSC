@@ -3868,6 +3868,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pdetails.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pdproxy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pds.nasa.gov
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pdst.fm
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=peace.ca
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=peacefire.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=peeasian.com
@@ -5262,6 +5263,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unstable.icu
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unwire.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uocn.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=up.audio
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=upbit.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=updates.tdesktop.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=upghsbc.com
