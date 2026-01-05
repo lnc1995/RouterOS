@@ -195,6 +195,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=agro.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ai.binwang.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ai.dev
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ai.studio
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aiosearch.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aiph.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=airasia.com
@@ -1262,6 +1263,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dawangidc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=daxa.cn
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=daylife.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dazn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=db.tt
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dbgjd.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dcard.tw
@@ -3757,6 +3759,8 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=onthehunt.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ontrac.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=oojj.de
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ooni.io
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ooni.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=open.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=open.firstory.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=openai.com
@@ -5744,6 +5748,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xbookcn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xbtce.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xcafe.in
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xcancel.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xcity.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xcritic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xerotica.com
