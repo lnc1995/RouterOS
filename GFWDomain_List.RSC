@@ -1021,6 +1021,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromecast.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromeexperiments.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromestatus.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromium.org 
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chuang-yen.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chubold.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chubun.com
@@ -2775,7 +2776,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ismprofessional.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=isohunt.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=israbox.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=issues.chromium.org 
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=issuu.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=istars.co.nz
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=istockphoto.com
