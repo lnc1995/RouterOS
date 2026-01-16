@@ -143,6 +143,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=abitno.linpie.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ablwang.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aboluowang.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=about.gitlab.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=about.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=abplive.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=abs.edu
@@ -2005,7 +2006,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=githubassets.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=githubcopilot.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=githubusercontent.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gitlab.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gitlab.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gizlen.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gjczz.com
