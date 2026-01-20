@@ -5558,6 +5558,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wefong.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wego.here.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=weiboleak.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=weights.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=weihuo.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=weijingsheng.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=weiming.info
@@ -5879,6 +5880,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youdontcare.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youjizz.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youmaker.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youmind.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youngpornvideos.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youngspiration.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youpai.org
