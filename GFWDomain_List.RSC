@@ -430,6 +430,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=babylonbee.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=babynet.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=backchina.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=backend-v2.crixet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=backpackers.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=backtotiananmen.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bad.news
