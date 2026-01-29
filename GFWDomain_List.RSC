@@ -1844,6 +1844,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freess.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freessh.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freetcp.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freeterabox.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freetibet.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freetibet.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freetibetanheroes.org
