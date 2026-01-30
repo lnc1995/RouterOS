@@ -4455,6 +4455,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=silkbook.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=silvergatebank.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=simbolostwitter.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=simianx.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=simplecd.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=simplecd.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=simpleproductivityblog.com
@@ -5859,6 +5860,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yesasia.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yespornplease.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yeyeclub.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yfsp.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ygto.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yhcw.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yibada.com
