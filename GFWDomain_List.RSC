@@ -2335,6 +2335,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=greenvpn.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=grindr.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=grok.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=grokipedia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ground.news
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gs-discuss.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gsearch.media
