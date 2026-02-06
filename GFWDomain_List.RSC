@@ -577,6 +577,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitshare.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitsnoop.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitterwinter.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bittorrent.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitvise.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bitz.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bizhat.com
@@ -2411,6 +2412,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=helpeachpeople.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=helpster.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=helpzhuling.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hembed.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hentai.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hentaitube.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hentaivideoworld.com
@@ -5356,6 +5358,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uygur.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uymaarip.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2.help
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2.hysteria.network
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2ex.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2fly.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2ray.com
