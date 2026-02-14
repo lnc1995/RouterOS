@@ -3848,6 +3848,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallmama.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallpapercasa.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallsttv.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallzhihu.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=waltermartin.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=waltermartin.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wanderinghorse.net
