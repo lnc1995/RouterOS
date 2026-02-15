@@ -1419,6 +1419,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=glype.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gmail.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gmgard.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gmgn.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gmodules.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gmp4.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gnci.org.hk
@@ -3209,6 +3210,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sowers.org.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=soylentnews.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=spaces.hightail.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=spacex.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=spankbang.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sparkpool.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=spatial.io
@@ -3845,6 +3847,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=waffle1999.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wainao.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=walletconnect.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=walletconnect.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallmama.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallpapercasa.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallsttv.com
