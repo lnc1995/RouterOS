@@ -1714,7 +1714,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gutteruncensored.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gvlib.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gvm.com.tw
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gvt1.com]
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gvt1.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gvt3.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gwins.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gwtproject.org
@@ -2404,6 +2404,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moresci.sale
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=morningsun.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mos.ru
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mosavi.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=motherless.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=movements.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moviefap.com
