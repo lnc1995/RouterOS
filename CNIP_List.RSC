@@ -6307,7 +6307,6 @@ add address=172.226.214.64/27 list=CNIP_List
 add address=172.226.47.0/27 list=CNIP_List
 add address=172.81.192.0/18 list=CNIP_List
 add address=173.39.200.0/23 list=CNIP_List
-add address=174.136.239.0/24 list=CNIP_List
 add address=175.0.0.0/12 list=CNIP_List
 add address=175.102.0.0/16 list=CNIP_List
 add address=175.102.0.0/19 list=CNIP_List
