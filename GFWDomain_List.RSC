@@ -136,6 +136,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=akamaihd.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=akiba-online.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=akiba-web.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=akile.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=akinator.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=akow.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=alabout.com
@@ -270,6 +271,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aspistrategist.org.au
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=assembla.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=assets.bwbx.io
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=assets.nxtrace.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=assimp.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=astrill.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=atc.org.au
@@ -2295,6 +2297,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mediafreakcity.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mediawiki.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=medium.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=meee.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=meetup.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mega.co.nz
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mega.io
@@ -2629,6 +2632,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ooni.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=open.firstory.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=openai.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=opencritic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=opendemocracy.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=openid.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=openleaks.org
@@ -3965,6 +3969,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.antd.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.aolnews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.bing.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.clashverge.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.cmoinc.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.dmm.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.eastturkistan.net
