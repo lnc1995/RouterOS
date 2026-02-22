@@ -3509,6 +3509,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=topsy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=toptip.ca
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=toptoon.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tor.eff.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torguard.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torlock.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torproject.org
@@ -3663,6 +3664,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=underwoodammo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unholyknight.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unirule.cloud
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uniswap.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unknownspace.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unmineable.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unseen.is
