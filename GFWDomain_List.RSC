@@ -1264,6 +1264,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freebeacon.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freebrowser.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freechinaweibo.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freedom.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freedomhouse.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freedominfonetweb.wordpress.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=freedomsherald.org
