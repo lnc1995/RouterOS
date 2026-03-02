@@ -760,6 +760,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ck101.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=classicalguitarblog.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claude.ai
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claude.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cldr.unicode.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=clearsurance.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=clementine-player.org
@@ -2264,6 +2265,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mangafox.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mangmang.run
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=manta.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=manus.im
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=manyvoices.news
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=marc.info
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=martau.com
@@ -3981,7 +3983,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.hoyolab.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.hustlercash.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.idlcoyote.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.imdb.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.kindleren.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.lorenzetti.com.br
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.m-sport.co.uk
