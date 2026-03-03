@@ -251,12 +251,14 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=archives.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arctosia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=areca-backup.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arena.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arena.taipei
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arethusa.su
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arlingtoncemetery.mil
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arte.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=artstation.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arvanstorage.ir
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arweave.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=asacp.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=asiaharvest.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=asianage.com
@@ -3930,6 +3932,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wiredpen.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wireguard.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wisevid.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wispbyte.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=withgoogle.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=withyoutube.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=witopia.net
