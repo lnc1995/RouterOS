@@ -1057,6 +1057,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ebtcbank.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ecfa.org.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ecimg.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=economist.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=edgecastcdn.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=edubridge.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=edx-cdn.org
@@ -4144,7 +4145,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=z-library.sk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zalmos.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zamimg.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zaobao.com.sg
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zaochenbao.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zattoo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zb.com
