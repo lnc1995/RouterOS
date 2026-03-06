@@ -978,6 +978,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dmcdn.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dmhy.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dmm.co.jp
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dns.cloudflare.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dns2go.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dnscrypt.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dnssec.net
@@ -1565,6 +1566,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=google.cv
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=google.cz
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=google.de
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=google.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=google.dj
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=google.dk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=google.dm
@@ -1980,6 +1982,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=interseclab.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=inthenameofconfuciusmovie.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=investigating.wordpress.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=investing.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=invidio.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=inxian.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ipdefenseforum.com
