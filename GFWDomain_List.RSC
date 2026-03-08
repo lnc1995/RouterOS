@@ -3100,6 +3100,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shenzhoufilm.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shenzhouzhengdao.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shiksha.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shitjournal.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shixiao.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shizhao.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shodanhq.com
