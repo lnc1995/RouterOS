@@ -2397,7 +2397,6 @@ add address=103.73.244.0/22 list=CNIP_List
 add address=103.73.248.0/22 list=CNIP_List
 add address=103.73.48.0/22 list=CNIP_List
 add address=103.73.48.0/23 list=CNIP_List
-add address=103.73.48.0/24 list=CNIP_List
 add address=103.73.51.0/24 list=CNIP_List
 add address=103.73.99.0/24 list=CNIP_List
 add address=103.74.124.0/22 list=CNIP_List
