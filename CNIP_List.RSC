@@ -3760,6 +3760,7 @@ add address=116.198.80.0/21 list=CNIP_List
 add address=116.198.96.0/19 list=CNIP_List
 add address=116.199.0.0/17 list=CNIP_List
 add address=116.199.128.0/19 list=CNIP_List
+add address=116.199.156.0/22 list=CNIP_List
 add address=116.2.0.0/15 list=CNIP_List
 add address=116.204.0.0/17 list=CNIP_List
 add address=116.204.132.0/23 list=CNIP_List
