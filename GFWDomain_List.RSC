@@ -4025,6 +4025,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xcafe.in
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xcancel.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xcity.jp
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xdaforums.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xerotica.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xfinity.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xfxssr.me
