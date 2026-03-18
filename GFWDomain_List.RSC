@@ -78,6 +78,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=a-normal-day.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=a248.e.akamai.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aamacau.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aave.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=abc.net.au
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=abc.xyz
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=abebooks.co.uk
