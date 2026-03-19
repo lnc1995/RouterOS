@@ -2608,8 +2608,10 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ohmyrss.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ok.ru
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okayfreedom.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okcoin.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okex.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okk.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=oklink.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okpool.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=old.honeynet.org
