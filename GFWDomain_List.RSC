@@ -747,6 +747,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromestatus.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromium.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ci-en.jp
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cia.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cici.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ciciai.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cirosantilli.com
