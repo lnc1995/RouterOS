@@ -4057,6 +4057,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--9pr62r24a.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--czq75pvv1aj5c.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--i2ru8q2qg.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--kcrv3utim32hx9f6qe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--ngstr-lra8j.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--noss43i.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--oiq.cc
