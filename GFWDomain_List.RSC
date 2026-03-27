@@ -3014,7 +3014,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rutracker.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rxhj.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s-cute.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s.rmimg.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s.yimg.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s3-ap-*.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s3-ap-northeast-1.amazonaws.com
