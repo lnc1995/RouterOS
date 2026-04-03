@@ -2663,6 +2663,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=orientaldaily.com.my
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=orn.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=osfoora.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=osmand.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=otcbtc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=otto.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ourdearamy.com
