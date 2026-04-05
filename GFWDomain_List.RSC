@@ -239,6 +239,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=appspot.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=appsto.re
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aptoide.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=archive-it.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=archive.fo
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=archive.is
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=archive.li
@@ -981,6 +982,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dmhy.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dmm.co.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dns.cloudflare.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dns.sb
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dns2go.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dnscrypt.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dnssec.net
@@ -991,6 +993,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dockerstatus.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=docs.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=documentingreality.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=doh.sb
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dolc.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dolf.org.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dongtaiwang.com
@@ -998,6 +1001,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=doom9.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=doosho.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=doourbest.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dot.sb
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dotplane.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dotsub.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dotvpn.com
