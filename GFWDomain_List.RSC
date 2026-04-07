@@ -847,6 +847,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cpu-monkey.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cq99.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crackle.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crashlytics.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crazypool.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crazyshit.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crbug.com

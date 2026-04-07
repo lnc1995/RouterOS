@@ -10301,6 +10301,7 @@ add address=43.249.144.0/22 list=CNIP_List
 add address=43.249.160.0/21 list=CNIP_List
 add address=43.249.168.0/22 list=CNIP_List
 add address=43.249.168.0/23 list=CNIP_List
+add address=43.249.169.0/24 list=CNIP_List
 add address=43.249.170.0/23 list=CNIP_List
 add address=43.249.192.0/22 list=CNIP_List
 add address=43.249.236.0/22 list=CNIP_List
