@@ -2315,7 +2315,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mediawiki.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=medium.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=meee.com.tw
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=meetup.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mega.co.nz
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mega.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mega.nz
@@ -2383,6 +2382,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mirrormedia.mg
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=missav.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=missav.ws
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mistral.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mitbbs.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=miuipolska.pl
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mixero.com
@@ -2889,7 +2889,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=putty.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pximg.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=python.com.tw
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pytorch.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qbittorrent.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qgirl.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qi-gong.me
