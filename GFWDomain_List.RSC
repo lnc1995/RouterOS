@@ -187,11 +187,9 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=angola.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=angularjs.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aniscartujo.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.in
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.li
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.org
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.pm
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.se
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.gd
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.gl
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=annas-archive.pk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anobii.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anonfiles.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anonymouse.org
@@ -3354,7 +3352,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tbssqh.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=teachparentstech.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=technews.tw
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=techspot.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=techviz.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=teck.in
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=teco-hk.org
@@ -3368,7 +3365,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=telegram.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=telegram.space
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=telegramdownload.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=telegraph.co.uk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=telesco.pe
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tellapart.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=temu.com
