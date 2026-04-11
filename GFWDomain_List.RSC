@@ -3048,6 +3048,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=savetibetstore.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=saveuighur.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sbme.me
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sbti.unun.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scache.vzw.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scache1.vzw.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scache2.vzw.com
