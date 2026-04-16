@@ -293,6 +293,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=avg.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=avgle.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=avidemux.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=avistaz.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=avmo.pw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=avmoo.pw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=avoision.com
