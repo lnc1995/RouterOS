@@ -433,7 +433,6 @@ add address=103.110.116.0/23 list=CNIP_List
 add address=103.110.119.0/24 list=CNIP_List
 add address=103.110.132.0/22 list=CNIP_List
 add address=103.110.136.0/22 list=CNIP_List
-add address=103.110.138.0/23 list=CNIP_List
 add address=103.110.156.0/22 list=CNIP_List
 add address=103.110.188.0/22 list=CNIP_List
 add address=103.110.204.0/22 list=CNIP_List
@@ -716,7 +715,6 @@ add address=103.152.186.0/23 list=CNIP_List
 add address=103.152.192.0/23 list=CNIP_List
 add address=103.152.200.0/23 list=CNIP_List
 add address=103.152.208.0/23 list=CNIP_List
-add address=103.152.209.0/24 list=CNIP_List
 add address=103.152.224.0/23 list=CNIP_List
 add address=103.152.224.0/24 list=CNIP_List
 add address=103.152.250.0/23 list=CNIP_List
