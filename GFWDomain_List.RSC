@@ -3348,6 +3348,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tbsn.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tbssqh.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=teachparentstech.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=techbang.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=technews.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=techviz.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=teck.in
