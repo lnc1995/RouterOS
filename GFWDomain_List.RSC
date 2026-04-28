@@ -3693,6 +3693,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=upmedia.mg
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=upornia.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uproxy.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=upsangel.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uptodown.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uraban.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=urbandictionary.com
