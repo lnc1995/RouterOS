@@ -3170,6 +3170,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sockslist.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=socrec.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softether-download.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softether.co.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softether.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softfamous.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softwarebychuck.com
