@@ -3046,9 +3046,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=saveuighur.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sbme.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sbti.unun.dev
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scache.vzw.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scache1.vzw.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scache2.vzw.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=schema.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scmp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=scramble.io
@@ -3229,7 +3226,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sproutcore.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=squirrelvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ss-link.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ss7.vzw.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ssglobal.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ssl.webpack.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sspanel.net
