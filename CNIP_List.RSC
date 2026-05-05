@@ -5918,6 +5918,7 @@ add address=157.10.130.0/23 list=CNIP_List
 add address=157.10.218.0/23 list=CNIP_List
 add address=157.10.220.0/23 list=CNIP_List
 add address=157.10.246.0/23 list=CNIP_List
+add address=157.10.34.0/24 list=CNIP_List
 add address=157.10.35.0/24 list=CNIP_List
 add address=157.10.36.0/23 list=CNIP_List
 add address=157.119.132.0/22 list=CNIP_List
