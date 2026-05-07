@@ -3693,6 +3693,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ultrasurf.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ultravpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ultravpn.fr
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=umap.openstreetmap.fr
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unblock-us.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unblock.cn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=unblockdmm.com
