@@ -921,6 +921,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=darrenliuwei.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dashlane.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=data-vocabulary.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=data18.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=daum.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=david-kilgour.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dawangidc.com
@@ -1032,6 +1033,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dropboxusercontent.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dscn.info
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dstk.dk
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dt18.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dtiblog.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dtic.mil
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dubox.com
