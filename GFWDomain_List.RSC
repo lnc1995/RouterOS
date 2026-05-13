@@ -742,6 +742,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chingcheong.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chinman.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chobit.cc
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chonglangtv.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chrdnet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=christianfreedom.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=christianstudy.com
