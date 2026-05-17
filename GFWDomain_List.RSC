@@ -3138,6 +3138,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shwchurch.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=shwchurch3.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sidelinesnews.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sider.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=signal.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=silvergatebank.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=simbolostwitter.com
@@ -4199,6 +4200,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zh.pokerstrategy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zh.wikiquote.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zhangtianliang.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zhangzhehan.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zhanlve.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zhao.1984.city
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zhengjian.org
