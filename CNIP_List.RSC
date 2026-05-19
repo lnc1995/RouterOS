@@ -1009,6 +1009,7 @@ add address=103.201.16.0/21 list=CNIP_List
 add address=103.201.160.0/19 list=CNIP_List
 add address=103.201.192.0/18 list=CNIP_List
 add address=103.201.192.0/24 list=CNIP_List
+add address=103.201.196.0/22 list=CNIP_List
 add address=103.201.28.0/22 list=CNIP_List
 add address=103.201.32.0/19 list=CNIP_List
 add address=103.201.64.0/22 list=CNIP_List
