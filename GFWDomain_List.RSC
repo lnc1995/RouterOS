@@ -1155,6 +1155,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=f-droid.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=f2pool.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=f8.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=f95zone.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=facebook.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=facebook.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=facebook.design
@@ -1342,6 +1343,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=fxnetworks.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g-area.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g-queen.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g0v.social
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g6hentai.com
@@ -2193,6 +2195,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lematin.ch
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lemonde.fr
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lenwhite.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=leonardo.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lesoir.be
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=letscorp.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lexica.art
@@ -2957,6 +2960,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=raizoji.or.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rakuten.co.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ramcity.com.au
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=raphael.app
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rapidmoviez.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rapidvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rarbgprx.org
@@ -3036,6 +3040,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rti.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rtm.tnt-ea.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rts.ch
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rule34.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rule34.xxx
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rule34video.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=rumble.com
@@ -3214,6 +3219,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sos.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sosad.fun
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sosreader.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sotwe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=soubory.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=soulcaliburhentai.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=soundcloud.com
