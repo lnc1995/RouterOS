@@ -10303,8 +10303,8 @@ add address=43.96.98.0/23 list=CNIP_List
 add address=43.97.0.0/16 list=CNIP_List
 add address=43.98.0.0/15 list=CNIP_List
 add address=44.30.120.0/24 list=CNIP_List
+add address=44.31.212.0/24 list=CNIP_List
 add address=44.31.216.0/24 list=CNIP_List
-add address=44.31.231.0/24 list=CNIP_List
 add address=44.31.28.0/24 list=CNIP_List
 add address=44.31.43.0/24 list=CNIP_List
 add address=44.32.191.0/24 list=CNIP_List
