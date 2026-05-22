@@ -28,6 +28,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=2047.one
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=2049bbs.xyz
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=233abc.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=24hbook.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=24hrs.ca
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=32red.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=36rain.com
@@ -2303,6 +2304,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=martsangkagyuofficial.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=marxist.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=marxists.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mas.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mash.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mastodon.cloud
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mastodon.host
@@ -2510,6 +2512,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ndi.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nekoslovakia.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=neo-miracle.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=neodb.social 
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=neowin.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nephobox.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=netalert.me
