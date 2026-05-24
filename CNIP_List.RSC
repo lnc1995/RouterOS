@@ -1455,7 +1455,6 @@ add address=103.237.88.0/22 list=CNIP_List
 add address=103.238.0.0/21 list=CNIP_List
 add address=103.238.132.0/22 list=CNIP_List
 add address=103.238.140.0/22 list=CNIP_List
-add address=103.238.140.0/24 list=CNIP_List
 add address=103.238.144.0/22 list=CNIP_List
 add address=103.238.152.0/23 list=CNIP_List
 add address=103.238.16.0/22 list=CNIP_List
