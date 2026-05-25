@@ -2449,6 +2449,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=motherless.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=movements.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moviefap.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mozilla.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mpettis.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mpfinance.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mpinews.com
