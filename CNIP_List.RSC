@@ -349,6 +349,7 @@ add address=103.102.196.0/22 list=CNIP_List
 add address=103.102.196.0/24 list=CNIP_List
 add address=103.102.200.0/22 list=CNIP_List
 add address=103.102.208.0/21 list=CNIP_List
+add address=103.102.212.0/23 list=CNIP_List
 add address=103.102.213.0/24 list=CNIP_List
 add address=103.102.214.0/24 list=CNIP_List
 add address=103.102.76.0/22 list=CNIP_List
