@@ -1022,6 +1022,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=douchi.space
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dougscripts.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=doujincafe.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dowjones.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=download.dappcdn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dpool.top
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dpp.org.tw
