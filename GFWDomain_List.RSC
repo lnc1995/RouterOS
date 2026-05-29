@@ -262,6 +262,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=artstation.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arvanstorage.ir
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=arweave.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=as.mr
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=asacp.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=asiaharvest.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=asianage.com
@@ -326,6 +327,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bangdream.space
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bangkokpost.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bangumi.moe
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bangumi.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bangyoulater.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bankmobilevibe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bannedbook.org
@@ -381,6 +383,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=betvictor.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bfnn.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bfsh.hk
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bgm.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bgme.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bgvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=biblesforamerica.org
@@ -699,6 +702,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chenshan20042005.wordpress.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cherrysave.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chhongbi.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chii.in
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=china-mmm.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=china-review.com.ua
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=china-week.com
@@ -800,7 +804,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cn.uptodown.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cna.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cnbbnews.wordpress.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cnbc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cnbeta.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cnd.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cnnews.chosun.com
@@ -1377,6 +1380,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=geek-art.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gekikame.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gelbooru.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gencraft.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=generated.photos
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=genius.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=geph.io
@@ -1791,6 +1795,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hicairo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hiccears.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hidden-advent.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hiddify.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hide.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hideipvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hideman.net
@@ -3202,7 +3207,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=socks-proxy.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sockslist.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=socrec.org
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softether-download.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softether.co.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softether.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=softfamous.com
@@ -3780,6 +3784,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vatn.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vcf-online.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vcfbuilder.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=veed.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vegas.williamhill.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vegasred.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=venetianmacao.com
@@ -4148,7 +4153,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yfsp.tv
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yhcw.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yibaochina.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yidio.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yigeni.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yipub.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yizhihongxing.com
