@@ -2723,7 +2723,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pacom.mil
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pacopacomama.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=page.link
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pages.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=paimon.moe
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pancakeswap.finance
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pandafan.pub
@@ -3336,6 +3335,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=surfeasy.com.au
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=surfshark.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=surrenderat20.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=suyingtv.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=swagbucks.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=swapspace.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=swissinfo.ch
@@ -4019,6 +4019,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wowporn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=woyaolian.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wp.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wplace.live
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wpoforum.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=writesonic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wsj.com
