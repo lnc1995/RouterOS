@@ -3171,6 +3171,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sinoca.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sinocast.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sinoinsider.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sinyalee.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sipml5.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sis001.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=site.new
