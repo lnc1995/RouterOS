@@ -90,6 +90,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=about.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=abplive.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=acast.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=accountboy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=accountkit.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=acevpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=acg.mn
@@ -2444,6 +2445,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=monocloud.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=monster.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moodyz.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moomoo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moon.fm
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moonbbs.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moonbingo.com
@@ -4109,6 +4111,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--oiq.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--p8j9a0d9c9a.xn--q9jyb4c
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--u2u927b.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xn--vuqv2cf7wzyig79c.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xnpool.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xnxx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xpud.org
