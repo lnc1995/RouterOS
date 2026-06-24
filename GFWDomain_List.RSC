@@ -1426,6 +1426,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=genius.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=geph.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=get.app
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=get.dappcdn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=get.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=get.how
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=get.page
