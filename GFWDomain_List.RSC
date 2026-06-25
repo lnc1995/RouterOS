@@ -873,6 +873,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crazyshit.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crbug.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=crchina.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=creader.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=creaders.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=creativelab5.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cristyli.com
