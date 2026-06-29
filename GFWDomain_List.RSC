@@ -1166,6 +1166,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expecthim.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expekt.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=exploader.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expressnews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expressvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=exrates.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=extmatrix.com
