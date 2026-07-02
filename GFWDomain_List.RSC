@@ -4018,6 +4018,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=webpkgcache.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=webrtc.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=websdr.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=webshare.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=website.new
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=webwarper.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wechatlawsuit.com
