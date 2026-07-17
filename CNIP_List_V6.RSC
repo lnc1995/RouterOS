@@ -105,15 +105,6 @@ add address=2400:cb80:e30::/44 list=CNIP_List_V6
 add address=2400:cb80:e40::/44 list=CNIP_List_V6
 add address=2400:da00::/32 list=CNIP_List_V6
 add address=2400:dd00::/28 list=CNIP_List_V6
-add address=2400:e3e0:aa00::/40 list=CNIP_List_V6
-add address=2400:e3e0:ab00::/41 list=CNIP_List_V6
-add address=2400:e3e0:ab80::/42 list=CNIP_List_V6
-add address=2400:e3e0:abc0::/43 list=CNIP_List_V6
-add address=2400:e3e0:abe0::/44 list=CNIP_List_V6
-add address=2400:e3e0:abf1::/48 list=CNIP_List_V6
-add address=2400:e3e0:abf2::/47 list=CNIP_List_V6
-add address=2400:e3e0:abf4::/46 list=CNIP_List_V6
-add address=2400:e3e0:abf8::/45 list=CNIP_List_V6
 add address=2400:e680::/32 list=CNIP_List_V6
 add address=2400:ee00::/32 list=CNIP_List_V6
 add address=2400:f6e0::/32 list=CNIP_List_V6
@@ -225,6 +216,7 @@ add address=2402:5ec0::/32 list=CNIP_List_V6
 add address=2402:6e80::/32 list=CNIP_List_V6
 add address=2402:6f40:2::/47 list=CNIP_List_V6
 add address=2402:6f40::/48 list=CNIP_List_V6
+add address=2402:6fc0::/48 list=CNIP_List_V6
 add address=2402:7040::/32 list=CNIP_List_V6
 add address=2402:7d80:240::/48 list=CNIP_List_V6
 add address=2402:7d80:8888::/48 list=CNIP_List_V6
@@ -484,7 +476,6 @@ add address=2406:840:fec4::/48 list=CNIP_List_V6
 add address=2406:840:feca::/47 list=CNIP_List_V6
 add address=2406:840:fecf::/48 list=CNIP_List_V6
 add address=2406:840:fed1::/48 list=CNIP_List_V6
-add address=2406:840:fed7::/48 list=CNIP_List_V6
 add address=2406:840:fed8::/48 list=CNIP_List_V6
 add address=2406:840:fedb::/48 list=CNIP_List_V6
 add address=2406:840:fedc::/47 list=CNIP_List_V6
@@ -1441,8 +1432,9 @@ add address=2a0f:1cc5:1034::/47 list=CNIP_List_V6
 add address=2a0f:1cc5:110::/44 list=CNIP_List_V6
 add address=2a0f:1cc5:130::/44 list=CNIP_List_V6
 add address=2a0f:1cc5:1310::/44 list=CNIP_List_V6
-add address=2a0f:1cc5:140::/42 list=CNIP_List_V6
+add address=2a0f:1cc5:140::/43 list=CNIP_List_V6
 add address=2a0f:1cc5:14::/46 list=CNIP_List_V6
+add address=2a0f:1cc5:160::/44 list=CNIP_List_V6
 add address=2a0f:1cc5:1901::/48 list=CNIP_List_V6
 add address=2a0f:1cc5:1c00::/47 list=CNIP_List_V6
 add address=2a0f:1cc5:1c02::/48 list=CNIP_List_V6
@@ -1479,7 +1471,10 @@ add address=2a0f:1cc6:b210::/47 list=CNIP_List_V6
 add address=2a0f:1cc6:b212::/48 list=CNIP_List_V6
 add address=2a0f:2706::/32 list=CNIP_List_V6
 add address=2a0f:6280:1400::/44 list=CNIP_List_V6
+add address=2a0f:6280:1430::/44 list=CNIP_List_V6
+add address=2a0f:6280:1440::/43 list=CNIP_List_V6
 add address=2a0f:6280:1460::/44 list=CNIP_List_V6
+add address=2a0f:6280:1480::/44 list=CNIP_List_V6
 add address=2a0f:6284:4c00::/44 list=CNIP_List_V6
 add address=2a0f:6284:4c20::/44 list=CNIP_List_V6
 add address=2a0f:6284:4c30::/48 list=CNIP_List_V6
@@ -1488,7 +1483,6 @@ add address=2a0f:6284:4c60::/44 list=CNIP_List_V6
 add address=2a0f:6284:4c80::/43 list=CNIP_List_V6
 add address=2a0f:6284:4ca0::/44 list=CNIP_List_V6
 add address=2a0f:6284:4cc0::/43 list=CNIP_List_V6
-add address=2a0f:7802:e100::/46 list=CNIP_List_V6
 add address=2a0f:85c1:bfe::/48 list=CNIP_List_V6
 add address=2a0f:9400:6110::/48 list=CNIP_List_V6
 add address=2a12:cb41:1200::/44 list=CNIP_List_V6
@@ -1539,7 +1533,7 @@ add address=2a14:67c1:b563::/48 list=CNIP_List_V6
 add address=2a14:67c1:b578::/48 list=CNIP_List_V6
 add address=2a14:67c1:b582::/48 list=CNIP_List_V6
 add address=2a14:67c1:b586::/47 list=CNIP_List_V6
-add address=2a14:67c1:b588::/47 list=CNIP_List_V6
+add address=2a14:67c1:b589::/48 list=CNIP_List_V6
 add address=2a14:67c1:b590::/48 list=CNIP_List_V6
 add address=2a14:67c1:b5e0::/44 list=CNIP_List_V6
 add address=2a14:67c1:c300::/40 list=CNIP_List_V6
@@ -1608,7 +1602,6 @@ add address=2a14:7586:6300::/44 list=CNIP_List_V6
 add address=2a14:7586:6500::/48 list=CNIP_List_V6
 add address=2a14:7dc0:506::/48 list=CNIP_List_V6
 add address=2a14:ae00:50::/44 list=CNIP_List_V6
-add address=2a14:c380:21::/48 list=CNIP_List_V6
 add address=2c0f:f7a8:8011::/48 list=CNIP_List_V6
 add address=2c0f:f7a8:8050::/48 list=CNIP_List_V6
 add address=2c0f:f7a8:805f::/48 list=CNIP_List_V6
