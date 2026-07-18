@@ -16,6 +16,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=173ng.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=18board.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=18comic.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=18comic.vip
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=18mh.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=1984bbs.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=1991way.com
