@@ -786,6 +786,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=civitai.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cixiaoya.club
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ck101.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=clashyun.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=classicalguitarblog.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claude.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claude.com
@@ -3439,6 +3440,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=syncback.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=synergyse.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=syosetu.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sysub.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=t-g.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=t.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=t.me
