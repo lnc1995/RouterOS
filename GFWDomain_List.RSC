@@ -4319,6 +4319,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zello.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zenmate.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zenmate.com.ru
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zenmux.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zerohedge.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zeronet.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=zh-hans.cfsh99.com
