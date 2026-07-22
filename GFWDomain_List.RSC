@@ -3654,6 +3654,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=togetter.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=token.im
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tokenlon.im
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tokenplus.app
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tokyo-porn-tube.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tokyocn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tomp3.cc
