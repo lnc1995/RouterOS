@@ -1,5 +1,5 @@
 /ip firewall address-list 
-remove [/ip firewall address-list find list=CNIP_List]
+remove [find list=CNIP_List]
 add address=1.0.1.0/24 list=CNIP_List
 add address=1.0.2.0/23 list=CNIP_List
 add address=1.0.32.0/19 list=CNIP_List
