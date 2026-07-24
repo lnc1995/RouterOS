@@ -774,6 +774,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cia.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cici.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ciciai.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=circle19.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cirosantilli.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=citizencn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=citizenlab.ca
@@ -2176,6 +2177,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=kantie.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=kaotic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=karayou.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=kards.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=kathmandupost.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=kawaiikawaii.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=kawase.com
