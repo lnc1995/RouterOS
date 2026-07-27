@@ -3698,6 +3698,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=truebuddha-md.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=trustwallet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=truthsocial.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tryai.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tryheart.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tsdr.uspto.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=tt1069.com
