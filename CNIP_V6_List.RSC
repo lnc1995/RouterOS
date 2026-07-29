@@ -74,6 +74,7 @@ add address=2400:9380:9080::/47 list=CNIP_V6_List
 add address=2400:9380:90b1::/48 list=CNIP_V6_List
 add address=2400:9380:90b2::/47 list=CNIP_V6_List
 add address=2400:9380:90b4::/46 list=CNIP_V6_List
+add address=2400:9380:9109::/48 list=CNIP_V6_List
 add address=2400:9380:9121::/48 list=CNIP_V6_List
 add address=2400:9380:9220::/47 list=CNIP_V6_List
 add address=2400:9380:9250::/47 list=CNIP_V6_List
@@ -322,8 +323,9 @@ add address=2404:bc0:4200::/43 list=CNIP_V6_List
 add address=2404:bc0:4300::/44 list=CNIP_V6_List
 add address=2404:bc0:4400::/43 list=CNIP_V6_List
 add address=2404:bc0:4500::/43 list=CNIP_V6_List
-add address=2404:bc0:4620::/44 list=CNIP_V6_List
 add address=2404:bc0:4f00::/43 list=CNIP_V6_List
+add address=2404:c2c0:111::/48 list=CNIP_V6_List
+add address=2404:c2c0:112::/48 list=CNIP_V6_List
 add address=2404:c2c0:240::/44 list=CNIP_V6_List
 add address=2404:c2c0:280::/44 list=CNIP_V6_List
 add address=2404:c2c0:2c0::/44 list=CNIP_V6_List
@@ -394,6 +396,7 @@ add address=2406:840:e080::/44 list=CNIP_V6_List
 add address=2406:840:e0cf::/48 list=CNIP_V6_List
 add address=2406:840:e0e0::/46 list=CNIP_V6_List
 add address=2406:840:e0e4::/47 list=CNIP_V6_List
+add address=2406:840:e0e8::/48 list=CNIP_V6_List
 add address=2406:840:e10f::/48 list=CNIP_V6_List
 add address=2406:840:e14f::/48 list=CNIP_V6_List
 add address=2406:840:e330::/44 list=CNIP_V6_List
@@ -473,7 +476,7 @@ add address=2406:840:fea1::/48 list=CNIP_V6_List
 add address=2406:840:fea2::/47 list=CNIP_V6_List
 add address=2406:840:fea4::/46 list=CNIP_V6_List
 add address=2406:840:fea8::/48 list=CNIP_V6_List
-add address=2406:840:feaa::/47 list=CNIP_V6_List
+add address=2406:840:feab::/48 list=CNIP_V6_List
 add address=2406:840:feac::/46 list=CNIP_V6_List
 add address=2406:840:fec0::/48 list=CNIP_V6_List
 add address=2406:840:fec2::/47 list=CNIP_V6_List
@@ -1319,6 +1322,7 @@ add address=2602:f92a:a470::/48 list=CNIP_V6_List
 add address=2602:f92a:a47d::/48 list=CNIP_V6_List
 add address=2602:f92a:dead::/48 list=CNIP_V6_List
 add address=2602:f9ba:10c::/48 list=CNIP_V6_List
+add address=2602:f9ba:a8::/48 list=CNIP_V6_List
 add address=2602:f9f6:450::/48 list=CNIP_V6_List
 add address=2605:9d80:8001::/48 list=CNIP_V6_List
 add address=2605:9d80:8011::/48 list=CNIP_V6_List
@@ -1378,6 +1382,7 @@ add address=2a06:a005:2a0::/44 list=CNIP_V6_List
 add address=2a06:a005:e50::/44 list=CNIP_V6_List
 add address=2a06:a005:e70::/44 list=CNIP_V6_List
 add address=2a07:54c1:2200::/46 list=CNIP_V6_List
+add address=2a09:3f00:6100::/40 list=CNIP_V6_List
 add address=2a0a:6040:6c40::/44 list=CNIP_V6_List
 add address=2a0a:6040:c700::/42 list=CNIP_V6_List
 add address=2a0a:6040:c770::/44 list=CNIP_V6_List
@@ -1401,10 +1406,6 @@ add address=2a0a:d681:fc00::/38 list=CNIP_V6_List
 add address=2a0a:d685:1fe::/47 list=CNIP_V6_List
 add address=2a0a:d685:200::/47 list=CNIP_V6_List
 add address=2a0a:d685:300::/40 list=CNIP_V6_List
-add address=2a0a:d687:f001::/48 list=CNIP_V6_List
-add address=2a0a:d687:f004::/47 list=CNIP_V6_List
-add address=2a0a:d687:f007::/48 list=CNIP_V6_List
-add address=2a0a:d687:f008::/48 list=CNIP_V6_List
 add address=2a0b:4e07:b8::/47 list=CNIP_V6_List
 add address=2a0c:b641:571::/48 list=CNIP_V6_List
 add address=2a0e:97c0:5ef::/48 list=CNIP_V6_List
@@ -1444,7 +1445,6 @@ add address=2a0f:1cc5:1902::/48 list=CNIP_V6_List
 add address=2a0f:1cc5:1c00::/47 list=CNIP_V6_List
 add address=2a0f:1cc5:1c02::/48 list=CNIP_V6_List
 add address=2a0f:1cc5:1c30::/48 list=CNIP_V6_List
-add address=2a0f:1cc5:1f::/48 list=CNIP_V6_List
 add address=2a0f:1cc5:2000::/40 list=CNIP_V6_List
 add address=2a0f:1cc5:2510::/44 list=CNIP_V6_List
 add address=2a0f:1cc5:2520::/44 list=CNIP_V6_List
@@ -1452,8 +1452,6 @@ add address=2a0f:1cc5:2600::/41 list=CNIP_V6_List
 add address=2a0f:1cc5:2680::/42 list=CNIP_V6_List
 add address=2a0f:1cc5:2d01::/48 list=CNIP_V6_List
 add address=2a0f:1cc5:2d03::/48 list=CNIP_V6_List
-add address=2a0f:1cc5:3200::/46 list=CNIP_V6_List
-add address=2a0f:1cc5:3222::/48 list=CNIP_V6_List
 add address=2a0f:1cc5:4700::/40 list=CNIP_V6_List
 add address=2a0f:1cc5:600::/47 list=CNIP_V6_List
 add address=2a0f:1cc5:603::/48 list=CNIP_V6_List
@@ -1464,16 +1462,15 @@ add address=2a0f:1cc5:c01::/48 list=CNIP_V6_List
 add address=2a0f:1cc5:f00::/46 list=CNIP_V6_List
 add address=2a0f:1cc5:f05::/48 list=CNIP_V6_List
 add address=2a0f:1cc5:f06::/47 list=CNIP_V6_List
-add address=2a0f:1cc5:f09::/48 list=CNIP_V6_List
+add address=2a0f:1cc5:f08::/47 list=CNIP_V6_List
 add address=2a0f:1cc5:fff::/48 list=CNIP_V6_List
 add address=2a0f:1cc6:b110::/47 list=CNIP_V6_List
 add address=2a0f:1cc6:b210::/47 list=CNIP_V6_List
 add address=2a0f:1cc6:b212::/48 list=CNIP_V6_List
 add address=2a0f:2706::/32 list=CNIP_V6_List
-add address=2a0f:6280:1400::/44 list=CNIP_V6_List
+add address=2a0f:6280:1400::/43 list=CNIP_V6_List
 add address=2a0f:6280:1430::/44 list=CNIP_V6_List
-add address=2a0f:6280:1440::/43 list=CNIP_V6_List
-add address=2a0f:6280:1460::/44 list=CNIP_V6_List
+add address=2a0f:6280:1440::/42 list=CNIP_V6_List
 add address=2a0f:6280:1480::/44 list=CNIP_V6_List
 add address=2a0f:6284:4c00::/44 list=CNIP_V6_List
 add address=2a0f:6284:4c20::/44 list=CNIP_V6_List
@@ -1487,6 +1484,7 @@ add address=2a0f:85c1:bfe::/48 list=CNIP_V6_List
 add address=2a0f:9400:6110::/48 list=CNIP_V6_List
 add address=2a12:cb41:1200::/44 list=CNIP_V6_List
 add address=2a12:cb41:13f0::/44 list=CNIP_V6_List
+add address=2a12:cb41:200::/44 list=CNIP_V6_List
 add address=2a12:cb41:600::/44 list=CNIP_V6_List
 add address=2a12:cb41::/44 list=CNIP_V6_List
 add address=2a12:cb46::/36 list=CNIP_V6_List
@@ -1513,7 +1511,8 @@ add address=2a14:67c1:a125::/48 list=CNIP_V6_List
 add address=2a14:67c1:a128::/48 list=CNIP_V6_List
 add address=2a14:67c1:b100::/47 list=CNIP_V6_List
 add address=2a14:67c1:b110::/48 list=CNIP_V6_List
-add address=2a14:67c1:b130::/46 list=CNIP_V6_List
+add address=2a14:67c1:b130::/48 list=CNIP_V6_List
+add address=2a14:67c1:b132::/47 list=CNIP_V6_List
 add address=2a14:67c1:b134::/48 list=CNIP_V6_List
 add address=2a14:67c1:b136::/48 list=CNIP_V6_List
 add address=2a14:67c1:b142::/47 list=CNIP_V6_List
@@ -1524,7 +1523,7 @@ add address=2a14:67c1:b514::/48 list=CNIP_V6_List
 add address=2a14:67c1:b530::/44 list=CNIP_V6_List
 add address=2a14:67c1:b563::/48 list=CNIP_V6_List
 add address=2a14:67c1:b578::/48 list=CNIP_V6_List
-add address=2a14:67c1:b586::/48 list=CNIP_V6_List
+add address=2a14:67c1:b586::/47 list=CNIP_V6_List
 add address=2a14:67c1:b588::/47 list=CNIP_V6_List
 add address=2a14:67c1:b590::/48 list=CNIP_V6_List
 add address=2a14:67c1:b5e0::/44 list=CNIP_V6_List
@@ -1553,7 +1552,6 @@ add address=2a14:67c2:a70::/47 list=CNIP_V6_List
 add address=2a14:67c2:a80::/47 list=CNIP_V6_List
 add address=2a14:67c2:a90::/48 list=CNIP_V6_List
 add address=2a14:67c2:aa1::/48 list=CNIP_V6_List
-add address=2a14:67c3:1100::/47 list=CNIP_V6_List
 add address=2a14:67c3:190::/47 list=CNIP_V6_List
 add address=2a14:67c3:30::/44 list=CNIP_V6_List
 add address=2a14:67c3:360::/48 list=CNIP_V6_List
@@ -1583,20 +1581,19 @@ add address=2a14:7583:f703::/48 list=CNIP_V6_List
 add address=2a14:7583:f704::/47 list=CNIP_V6_List
 add address=2a14:7583:f707::/48 list=CNIP_V6_List
 add address=2a14:7583:f708::/47 list=CNIP_V6_List
-add address=2a14:7583:f70b::/48 list=CNIP_V6_List
 add address=2a14:7583:f70c::/48 list=CNIP_V6_List
 add address=2a14:7583:f743::/48 list=CNIP_V6_List
 add address=2a14:7583:f744::/48 list=CNIP_V6_List
 add address=2a14:7583:f764::/48 list=CNIP_V6_List
-add address=2a14:7586:6100::/48 list=CNIP_V6_List
+add address=2a14:7586:6100::/47 list=CNIP_V6_List
 add address=2a14:7586:6103::/48 list=CNIP_V6_List
 add address=2a14:7586:6104::/47 list=CNIP_V6_List
 add address=2a14:7586:6106::/48 list=CNIP_V6_List
 add address=2a14:7586:6108::/48 list=CNIP_V6_List
 add address=2a14:7586:6110::/48 list=CNIP_V6_List
+add address=2a14:7586:6113::/48 list=CNIP_V6_List
 add address=2a14:7586:6300::/44 list=CNIP_V6_List
 add address=2a14:7586:6500::/48 list=CNIP_V6_List
-add address=2a14:7dc0:506::/48 list=CNIP_V6_List
 add address=2a14:ae00:50::/44 list=CNIP_V6_List
 add address=2c0f:f7a8:8011::/48 list=CNIP_V6_List
 add address=2c0f:f7a8:8050::/48 list=CNIP_V6_List
