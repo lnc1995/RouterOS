@@ -2262,6 +2262,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=leonardo.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lesoir.be
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=letscorp.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=level-plus.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lexica.art
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lhakar.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=li.taipei
@@ -3880,6 +3881,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uyghurtribunal.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uygur.fc2web.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=uymaarip.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v.recipes
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2.help
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2.hysteria.network
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=v2ex.com

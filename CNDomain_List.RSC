@@ -103033,6 +103033,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xmmuye.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xmnjdwx.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xmocloud01.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xmoj.tech
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xmonecode.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xmos.tv
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xmov.ai
