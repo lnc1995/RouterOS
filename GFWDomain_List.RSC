@@ -2681,6 +2681,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ntdtv.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ntdtv.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ntdtv.cz
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nthlink.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nuexpo.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nurgo-software.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nusatrip.com
