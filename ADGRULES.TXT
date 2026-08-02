@@ -5532,6 +5532,7 @@
 [/51julebu.com/]tls://223.5.5.5 218.2.2.2
 [/51junde.com/]tls://223.5.5.5 218.2.2.2
 [/51junshi.com/]tls://223.5.5.5 218.2.2.2
+[/51kandianshi.com/]tls://223.5.5.5 218.2.2.2
 [/51kanmanhua.com/]tls://223.5.5.5 218.2.2.2
 [/51kanong.com/]tls://223.5.5.5 218.2.2.2
 [/51kaola.net/]tls://223.5.5.5 218.2.2.2
@@ -26729,6 +26730,7 @@
 [/cspro.org/]tls://223.5.5.5 218.2.2.2
 [/cspruc.com/]tls://223.5.5.5 218.2.2.2
 [/csptia.org/]tls://223.5.5.5 218.2.2.2
+[/csqaq.com/]tls://223.5.5.5 218.2.2.2
 [/csqsg.com/]tls://223.5.5.5 218.2.2.2
 [/csrcare.com/]tls://223.5.5.5 218.2.2.2
 [/csrcbank.com/]tls://223.5.5.5 218.2.2.2
@@ -32371,6 +32373,7 @@
 [/ecer.com/]tls://223.5.5.5 218.2.2.2
 [/ecerdns.com/]tls://223.5.5.5 218.2.2.2
 [/ecerimg.com/]tls://223.5.5.5 218.2.2.2
+[/eceshi.com/]tls://223.5.5.5 218.2.2.2
 [/ecf-gov.com/]tls://223.5.5.5 218.2.2.2
 [/ecgci.com/]tls://223.5.5.5 218.2.2.2
 [/ecgoods.com/]tls://223.5.5.5 218.2.2.2
@@ -33516,6 +33519,7 @@
 [/ernaonet.com/]tls://223.5.5.5 218.2.2.2
 [/ernest.me/]tls://223.5.5.5 218.2.2.2
 [/eroacg.com/]tls://223.5.5.5 218.2.2.2
+[/erocraft.com/]tls://223.5.5.5 218.2.2.2
 [/erongdu.com/]tls://223.5.5.5 218.2.2.2
 [/erp198.com/]tls://223.5.5.5 218.2.2.2
 [/erp321.com/]tls://223.5.5.5 218.2.2.2
@@ -38372,6 +38376,7 @@
 [/geiniwan.com/]tls://223.5.5.5 218.2.2.2
 [/geizan.cc/]tls://223.5.5.5 218.2.2.2
 [/gelaha.com/]tls://223.5.5.5 218.2.2.2
+[/gelaiyun.net/]tls://223.5.5.5 218.2.2.2
 [/gelicang.net/]tls://223.5.5.5 218.2.2.2
 [/geline.net/]tls://223.5.5.5 218.2.2.2
 [/gelinya.com/]tls://223.5.5.5 218.2.2.2
@@ -44597,6 +44602,7 @@
 [/haojiao.net/]tls://223.5.5.5 218.2.2.2
 [/haojiaolian.com/]tls://223.5.5.5 218.2.2.2
 [/haojie.work/]tls://223.5.5.5 218.2.2.2
+[/haojieyun.com/]tls://223.5.5.5 218.2.2.2
 [/haojing.org/]tls://223.5.5.5 218.2.2.2
 [/haojit.com/]tls://223.5.5.5 218.2.2.2
 [/haoju5.com/]tls://223.5.5.5 218.2.2.2
@@ -47150,6 +47156,7 @@
 [/hncfa.com/]tls://223.5.5.5 218.2.2.2
 [/hncgkgjt.com/]tls://223.5.5.5 218.2.2.2
 [/hnchaosu.com/]tls://223.5.5.5 218.2.2.2
+[/hnchasing.com/]tls://223.5.5.5 218.2.2.2
 [/hnchemtech.com/]tls://223.5.5.5 218.2.2.2
 [/hnchuangj.net/]tls://223.5.5.5 218.2.2.2
 [/hnchuangxiangkj.com/]tls://223.5.5.5 218.2.2.2
@@ -51279,6 +51286,7 @@
 [/idataway.com/]tls://223.5.5.5 218.2.2.2
 [/idatawz.com/]tls://223.5.5.5 218.2.2.2
 [/idayer.com/]tls://223.5.5.5 218.2.2.2
+[/idazhe.net/]tls://223.5.5.5 218.2.2.2
 [/idbhost.com/]tls://223.5.5.5 218.2.2.2
 [/idc-icp.com/]tls://223.5.5.5 218.2.2.2
 [/idc002.com/]tls://223.5.5.5 218.2.2.2
@@ -58455,6 +58463,7 @@
 [/kaihuia.com/]tls://223.5.5.5 218.2.2.2
 [/kaijia-smt.com/]tls://223.5.5.5 218.2.2.2
 [/kaijia.com/]tls://223.5.5.5 218.2.2.2
+[/kaijiacloud.com/]tls://223.5.5.5 218.2.2.2
 [/kaijiage.com/]tls://223.5.5.5 218.2.2.2
 [/kaijiejinrong.com/]tls://223.5.5.5 218.2.2.2
 [/kaijieunion.com/]tls://223.5.5.5 218.2.2.2
@@ -71024,6 +71033,7 @@
 [/nlteck.com/]tls://223.5.5.5 218.2.2.2
 [/nlttms.com/]tls://223.5.5.5 218.2.2.2
 [/nlxn.com/]tls://223.5.5.5 218.2.2.2
+[/nlyd.club/]tls://223.5.5.5 218.2.2.2
 [/nlypx.com/]tls://223.5.5.5 218.2.2.2
 [/nlyzzzxrmyy.com/]tls://223.5.5.5 218.2.2.2
 [/nlzpw.com/]tls://223.5.5.5 218.2.2.2
@@ -76946,6 +76956,7 @@
 [/qjjfin.com/]tls://223.5.5.5 218.2.2.2
 [/qjjmw.com/]tls://223.5.5.5 218.2.2.2
 [/qjmotor.com/]tls://223.5.5.5 218.2.2.2
+[/qjmotorlink.com/]tls://223.5.5.5 218.2.2.2
 [/qjnice.com/]tls://223.5.5.5 218.2.2.2
 [/qjrc.com/]tls://223.5.5.5 218.2.2.2
 [/qjren.com/]tls://223.5.5.5 218.2.2.2
@@ -81035,6 +81046,7 @@
 [/scyesz.com/]tls://223.5.5.5 218.2.2.2
 [/scylzx.net/]tls://223.5.5.5 218.2.2.2
 [/scymob.com/]tls://223.5.5.5 218.2.2.2
+[/scyol.com/]tls://223.5.5.5 218.2.2.2
 [/scyongqin.com/]tls://223.5.5.5 218.2.2.2
 [/scyqfhw.com/]tls://223.5.5.5 218.2.2.2
 [/scyqjs.com/]tls://223.5.5.5 218.2.2.2
@@ -93662,6 +93674,7 @@
 [/ugdesk.com/]tls://223.5.5.5 218.2.2.2
 [/ugdocker.link/]tls://223.5.5.5 218.2.2.2
 [/ugdtimg.com/]tls://223.5.5.5 218.2.2.2
+[/ugediao.com/]tls://223.5.5.5 218.2.2.2
 [/uggame.com/]tls://223.5.5.5 218.2.2.2
 [/uggd.com/]tls://223.5.5.5 218.2.2.2
 [/ugirls.tv/]tls://223.5.5.5 218.2.2.2
@@ -99988,6 +100001,7 @@
 [/x-cloud.cc/]tls://223.5.5.5 218.2.2.2
 [/x-cmd.com/]tls://223.5.5.5 218.2.2.2
 [/x-droners.com/]tls://223.5.5.5 218.2.2.2
+[/x-gpu.com/]tls://223.5.5.5 218.2.2.2
 [/x-imagine.com/]tls://223.5.5.5 218.2.2.2
 [/x-jishu.com/]tls://223.5.5.5 218.2.2.2
 [/x-kicks.com/]tls://223.5.5.5 218.2.2.2
@@ -101170,6 +101184,7 @@
 [/xiaomagaojian.com/]tls://223.5.5.5 218.2.2.2
 [/xiaomai.live/]tls://223.5.5.5 218.2.2.2
 [/xiaomai5.com/]tls://223.5.5.5 218.2.2.2
+[/xiaomaicn.com/]tls://223.5.5.5 218.2.2.2
 [/xiaomaidong.com/]tls://223.5.5.5 218.2.2.2
 [/xiaomaigongkao.com/]tls://223.5.5.5 218.2.2.2
 [/xiaomaigui.com/]tls://223.5.5.5 218.2.2.2
@@ -113969,6 +113984,7 @@
 [/zzcdnx.com/]tls://223.5.5.5 218.2.2.2
 [/zzcjby.com/]tls://223.5.5.5 218.2.2.2
 [/zzcjxy.com/]tls://223.5.5.5 218.2.2.2
+[/zzclass.com/]tls://223.5.5.5 218.2.2.2
 [/zzcmjn.com/]tls://223.5.5.5 218.2.2.2
 [/zzcomm.com/]tls://223.5.5.5 218.2.2.2
 [/zzcrcgas.com/]tls://223.5.5.5 218.2.2.2

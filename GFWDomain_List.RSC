@@ -690,6 +690,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=centerforhumanreprod.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=centralnation.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=centurys.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cerebras.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=certificate-transparency.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=certificate.revocationcheck.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cfr.org
@@ -770,6 +771,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromecast.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromeexperiments.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chromestatus.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cht.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ci-en.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cia.gov
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cici.com
@@ -2526,7 +2528,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=motherless.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=movements.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=moviefap.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mozilla.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mpettis.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mpfinance.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mpinews.com
@@ -2996,7 +2997,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pullfolio.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pure18.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pureconcepts.net
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=puredns.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=pureinsight.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=purepdf.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=purevpn.com
@@ -3041,7 +3041,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radio.garden
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radioaustralia.net.au
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiohilight.net
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiojar.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radioline.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiovaticana.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=radiovncr.com
@@ -3154,7 +3153,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=safechat.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=safeguarddefenders.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=safervpn.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sagernet.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=saintyculture.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sakuralive.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=salvation.org.hk
@@ -4148,7 +4146,6 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.antd.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.aolnews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.bing.com
-add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.clashverge.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.cmoinc.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.dmm.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=www.eastturkistan.net
