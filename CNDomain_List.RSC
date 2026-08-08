@@ -65013,6 +65013,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=madajiefood.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=madaomall.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=madboxi.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=made-in-china.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=madefuns.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=madeinchinastone.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=madewei.com
@@ -66785,6 +66786,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=microxiang.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=microyan.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=microzuji.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=micstatic.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=mictormedical.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=micu.hk
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=micun.com
@@ -74621,6 +74623,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=powercx.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=powerde.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=powereasy.net
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=poweremarket.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=powerex1.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=powerflow-tech.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=powerfulchina.com

@@ -65011,6 +65011,7 @@
 [/madajiefood.com/]tls://223.5.5.5 218.2.2.2
 [/madaomall.com/]tls://223.5.5.5 218.2.2.2
 [/madboxi.com/]tls://223.5.5.5 218.2.2.2
+[/made-in-china.com/]tls://223.5.5.5 218.2.2.2
 [/madefuns.com/]tls://223.5.5.5 218.2.2.2
 [/madeinchinastone.com/]tls://223.5.5.5 218.2.2.2
 [/madewei.com/]tls://223.5.5.5 218.2.2.2
@@ -66783,6 +66784,7 @@
 [/microxiang.com/]tls://223.5.5.5 218.2.2.2
 [/microyan.com/]tls://223.5.5.5 218.2.2.2
 [/microzuji.com/]tls://223.5.5.5 218.2.2.2
+[/micstatic.com/]tls://223.5.5.5 218.2.2.2
 [/mictormedical.com/]tls://223.5.5.5 218.2.2.2
 [/micu.hk/]tls://223.5.5.5 218.2.2.2
 [/micun.com/]tls://223.5.5.5 218.2.2.2
@@ -74619,6 +74621,7 @@
 [/powercx.com/]tls://223.5.5.5 218.2.2.2
 [/powerde.com/]tls://223.5.5.5 218.2.2.2
 [/powereasy.net/]tls://223.5.5.5 218.2.2.2
+[/poweremarket.com/]tls://223.5.5.5 218.2.2.2
 [/powerex1.com/]tls://223.5.5.5 218.2.2.2
 [/powerflow-tech.com/]tls://223.5.5.5 218.2.2.2
 [/powerfulchina.com/]tls://223.5.5.5 218.2.2.2
