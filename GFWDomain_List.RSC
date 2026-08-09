@@ -131,6 +131,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=agro.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ai.dev
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ai.studio
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aihub.top
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aiosearch.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=aiph.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=airconsole.com
@@ -345,6 +346,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=barnabu.co.uk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bartender.dowjones.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=barton.de
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=basemaps.arcgis.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bastillepost.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bayvoice.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bb-chat.tv
@@ -1147,6 +1149,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=eromangadouzin.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=eromon.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=esg.t91y.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=esim.redteago.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=eslite.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=esurance.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=etherdelta.com
@@ -1169,6 +1172,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expatshield.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expecthim.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expekt.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=experience.arcgis.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=exploader.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expressnews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=expressvpn.com
