@@ -62254,6 +62254,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=lifevc.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=lifevccdn.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=lifeweeker.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=lifexue.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=lifeyk.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=lifeyn.net
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=lifezb.com

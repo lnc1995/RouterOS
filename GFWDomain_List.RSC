@@ -1000,6 +1000,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=disp.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=disqus.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dit-inc.us
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=divdyn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=diyin.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dizhuzhishang.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=dl-laby.jp

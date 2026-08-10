@@ -10885,7 +10885,6 @@ add address=45.82.239.0/24 list=CNIP_List
 add address=45.86.73.0/24 list=CNIP_List
 add address=45.89.104.0/24 list=CNIP_List
 add address=45.9.11.0/24 list=CNIP_List
-add address=45.95.207.0/24 list=CNIP_List
 add address=46.248.24.0/23 list=CNIP_List
 add address=46.37.112.0/24 list=CNIP_List
 add address=47.112.0.0/13 list=CNIP_List

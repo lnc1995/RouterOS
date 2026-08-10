@@ -62252,6 +62252,7 @@
 [/lifevc.com/]tls://223.5.5.5 218.2.2.2
 [/lifevccdn.com/]tls://223.5.5.5 218.2.2.2
 [/lifeweeker.com/]tls://223.5.5.5 218.2.2.2
+[/lifexue.com/]tls://223.5.5.5 218.2.2.2
 [/lifeyk.com/]tls://223.5.5.5 218.2.2.2
 [/lifeyn.net/]tls://223.5.5.5 218.2.2.2
 [/lifezb.com/]tls://223.5.5.5 218.2.2.2
