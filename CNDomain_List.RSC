@@ -52504,6 +52504,8 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iot688.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iot889.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iotachem.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iotaskyt.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iotaskyty.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iotbay.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iotfair.net
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=iotku.com
@@ -89196,6 +89198,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=tbbbk.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=tbcache.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=tbcdn.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=tbdesk.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=tbh5.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=tbhcc.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=tbhelper.com
