@@ -2498,6 +2498,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=194nb.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=195155.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=195268032591463.icu
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=1958xy.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=195idc.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=196b7adb23969e39.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=196g.com
@@ -4203,6 +4204,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=36kr.net
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=36krcdn.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=36krcnd.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=36linkr.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=36pnes36t0qs.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=36qp.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=36rv3j3.shop
@@ -14581,7 +14583,6 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bamboofactorychina.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bambooolab.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bambu-lab.com
-add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bambulab.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bamengame.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bamensq.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bamenzhushou.com
@@ -17173,6 +17174,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bktsj.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bkvps.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bkweek.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bkzhibo.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bkzzy.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bl.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=bl0757.com
@@ -54171,6 +54173,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jgsemicon.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jgstour.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jgsxfw.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jgtab.link
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jgtc315.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jguanjia.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jgums.com
@@ -55934,6 +55937,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jkyule.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jkzhilu.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jkzl.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jkzlrs.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jkzn365.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jl-er.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=jl-jssk.com
@@ -57608,6 +57612,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=juwanhezi.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=juwanshe.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=juweixin.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=juwinmedia.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=juwuxian.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=juxia.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=juxian.com
@@ -87499,6 +87504,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sxyj.net
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sxyqgs.asia
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sxyyc.net
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sxyygh.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sxzhaobiao.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sxzhongfei.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sxzhyy.com
@@ -100323,6 +100329,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xhscdn.net
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xhsd.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xhsd.net
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xhsdzd.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xhsf.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xhslink.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xhslw.com
