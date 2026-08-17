@@ -2315,6 +2315,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=livemint.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=livestream.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=livevideo.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=livingatlas.arcgis.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=livingstream.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=lmarena.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=localbitcoins.com
