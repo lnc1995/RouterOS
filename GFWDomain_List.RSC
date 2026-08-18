@@ -3151,6 +3151,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s-cute.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s.yimg.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s3-ap-northeast-1.amazonaws.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=s3.dualstack.us-west-2.amazonaws.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sacks.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sacom.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sadistic-v.com
@@ -4096,6 +4097,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=willw.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wilsoncenter.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=windscribe.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=windy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wingamestore.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wingy.site
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wionews.com

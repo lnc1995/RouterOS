@@ -75938,6 +75938,7 @@
 [/qianwa.com/]tls://223.5.5.5 218.2.2.2
 [/qianwanku.com/]tls://223.5.5.5 218.2.2.2
 [/qianwen.com/]tls://223.5.5.5 218.2.2.2
+[/qianwenai.com/]tls://223.5.5.5 218.2.2.2
 [/qianxiangbank.com/]tls://223.5.5.5 218.2.2.2
 [/qianxibj.net/]tls://223.5.5.5 218.2.2.2
 [/qianximiye.com/]tls://223.5.5.5 218.2.2.2

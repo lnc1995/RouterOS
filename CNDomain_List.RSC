@@ -75940,6 +75940,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=qianwa.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=qianwanku.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=qianwen.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=qianwenai.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=qianxiangbank.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=qianxibj.net
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=qianximiye.com
