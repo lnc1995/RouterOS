@@ -2732,6 +2732,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okpool.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=okx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=old.honeynet.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=oldmapsonline.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=olehdtv.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=olelive.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=olevod.com
