@@ -565,6 +565,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=breakgfw.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=breakingtweets.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=breakwall.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=briarproject.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=brill.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=brizzly.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=broadpressinc.com
@@ -707,6 +708,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chat.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chat.lmsys.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chatgpt.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chatgpt.site
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chatpdf.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chaturbate.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=checkgfw.com
