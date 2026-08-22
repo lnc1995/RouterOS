@@ -10577,7 +10577,6 @@
 [/afca-asia.org/]tls://223.5.5.5 218.2.2.2
 [/afca6b82c11032.beer/]tls://223.5.5.5 218.2.2.2
 [/afcec.com/]tls://223.5.5.5 218.2.2.2
-[/afcs.dell.com/]tls://223.5.5.5 218.2.2.2
 [/afdian.com/]tls://223.5.5.5 218.2.2.2
 [/afdian.net/]tls://223.5.5.5 218.2.2.2
 [/afdiancdn.com/]tls://223.5.5.5 218.2.2.2
@@ -23569,7 +23568,6 @@
 [/client51.com/]tls://223.5.5.5 218.2.2.2
 [/clientflow.apple.com/]tls://223.5.5.5 218.2.2.2
 [/clientflow.apple.com.akadns.net/]tls://223.5.5.5 218.2.2.2
-[/clientperipherals.dell.com/]tls://223.5.5.5 218.2.2.2
 [/clifford-hospital.org/]tls://223.5.5.5 218.2.2.2
 [/cliffordtrading.com/]tls://223.5.5.5 218.2.2.2
 [/cliim.com/]tls://223.5.5.5 218.2.2.2
@@ -27048,7 +27046,6 @@
 [/cusdvs.net/]tls://223.5.5.5 218.2.2.2
 [/custeel.com/]tls://223.5.5.5 218.2.2.2
 [/customer.lenovo.com/]tls://223.5.5.5 218.2.2.2
-[/customization-cdn.dell.com/]tls://223.5.5.5 218.2.2.2
 [/customizedfasteners.com/]tls://223.5.5.5 218.2.2.2
 [/customsapp.com/]tls://223.5.5.5 218.2.2.2
 [/customskh.org/]tls://223.5.5.5 218.2.2.2
@@ -28623,7 +28620,6 @@
 [/ddpai.com/]tls://223.5.5.5 218.2.2.2
 [/ddpoc.com/]tls://223.5.5.5 218.2.2.2
 [/ddqcw.com/]tls://223.5.5.5 218.2.2.2
-[/dds.dell.com/]tls://223.5.5.5 218.2.2.2
 [/ddsaas.com/]tls://223.5.5.5 218.2.2.2
 [/ddsk.la/]tls://223.5.5.5 218.2.2.2
 [/ddsm.com/]tls://223.5.5.5 218.2.2.2
@@ -29954,7 +29950,6 @@
 [/dl-meitu.com/]tls://223.5.5.5 218.2.2.2
 [/dl-rc.com/]tls://223.5.5.5 218.2.2.2
 [/dl.delivery.mp.microsoft.com/]tls://223.5.5.5 218.2.2.2
-[/dl.dell.com/]tls://223.5.5.5 218.2.2.2
 [/dl.djicdn.com/]tls://223.5.5.5 218.2.2.2
 [/dl.razerzone.com/]tls://223.5.5.5 218.2.2.2
 [/dl0728.com/]tls://223.5.5.5 218.2.2.2
@@ -31940,9 +31935,6 @@
 [/ea-china.com/]tls://223.5.5.5 218.2.2.2
 [/ea-retina.com/]tls://223.5.5.5 218.2.2.2
 [/ea-xing.com/]tls://223.5.5.5 218.2.2.2
-[/ea2cn-dev-outlet.dell.com/]tls://223.5.5.5 218.2.2.2
-[/ea2cn-prod-outlet.dell.com/]tls://223.5.5.5 218.2.2.2
-[/ea2cn-staging-outlet.dell.com/]tls://223.5.5.5 218.2.2.2
 [/ea360.com/]tls://223.5.5.5 218.2.2.2
 [/ea3w.com/]tls://223.5.5.5 218.2.2.2
 [/ea65d2a2f16d6b8c.com/]tls://223.5.5.5 218.2.2.2
@@ -33019,7 +33011,6 @@
 [/emlog.net/]tls://223.5.5.5 218.2.2.2
 [/emmmn.com/]tls://223.5.5.5 218.2.2.2
 [/emodor.com/]tls://223.5.5.5 218.2.2.2
-[/emoi-cncdn.bing.com/]tls://223.5.5.5 218.2.2.2
 [/emoji6.com/]tls://223.5.5.5 218.2.2.2
 [/emojimobile.com/]tls://223.5.5.5 218.2.2.2
 [/emoriko.com/]tls://223.5.5.5 218.2.2.2
@@ -34713,7 +34704,6 @@
 [/fcpowerup.com/]tls://223.5.5.5 218.2.2.2
 [/fcqjc.com/]tls://223.5.5.5 218.2.2.2
 [/fcrc114.com/]tls://223.5.5.5 218.2.2.2
-[/fcs.dell.com/]tls://223.5.5.5 218.2.2.2
 [/fcs1.com/]tls://223.5.5.5 218.2.2.2
 [/fcsc.com/]tls://223.5.5.5 218.2.2.2
 [/fcstor.com/]tls://223.5.5.5 218.2.2.2
@@ -36441,11 +36431,7 @@
 [/ft12.com/]tls://223.5.5.5 218.2.2.2
 [/ft22.com/]tls://223.5.5.5 218.2.2.2
 [/ft98.com/]tls://223.5.5.5 218.2.2.2
-[/fta.dell.com/]tls://223.5.5.5 218.2.2.2
-[/ftaapj.dell.com/]tls://223.5.5.5 218.2.2.2
-[/ftaemea.dell.com/]tls://223.5.5.5 218.2.2.2
 [/ftaro.com/]tls://223.5.5.5 218.2.2.2
-[/ftasitapj.dell.com/]tls://223.5.5.5 218.2.2.2
 [/ftbj.net/]tls://223.5.5.5 218.2.2.2
 [/ftcoaster.com/]tls://223.5.5.5 218.2.2.2
 [/ftcwifi.com/]tls://223.5.5.5 218.2.2.2
@@ -37553,8 +37539,6 @@
 [/gbtranswins.com/]tls://223.5.5.5 218.2.2.2
 [/gbvh.com/]tls://223.5.5.5 218.2.2.2
 [/gbw114.com/]tls://223.5.5.5 218.2.2.2
-[/gbxgateway-dev.dell.com/]tls://223.5.5.5 218.2.2.2
-[/gbxgateway.dell.com/]tls://223.5.5.5 218.2.2.2
 [/gc-zb.com/]tls://223.5.5.5 218.2.2.2
 [/gc1616.com/]tls://223.5.5.5 218.2.2.2
 [/gc39.com/]tls://223.5.5.5 218.2.2.2
@@ -50533,7 +50517,6 @@
 [/i-xiaohaibao.com/]tls://223.5.5.5 218.2.2.2
 [/i-xinnuo.com/]tls://223.5.5.5 218.2.2.2
 [/i-xoron.com/]tls://223.5.5.5 218.2.2.2
-[/i.dell.com/]tls://223.5.5.5 218.2.2.2
 [/i.ipinyou.com/]tls://223.5.5.5 218.2.2.2
 [/i.pki.goog/]tls://223.5.5.5 218.2.2.2
 [/i.survey.lenovo.com/]tls://223.5.5.5 218.2.2.2
@@ -69896,7 +69879,6 @@
 [/nextworkshop.net/]tls://223.5.5.5 218.2.2.2
 [/nextyu.com/]tls://223.5.5.5 218.2.2.2
 [/nexus-holding.com/]tls://223.5.5.5 218.2.2.2
-[/nexus.dell.com/]tls://223.5.5.5 218.2.2.2
 [/nexusedgeio.com/]tls://223.5.5.5 218.2.2.2
 [/nexushd.org/]tls://223.5.5.5 218.2.2.2
 [/neyetwatcher.com/]tls://223.5.5.5 218.2.2.2
@@ -72981,7 +72963,6 @@
 [/p-sig-dom.net/]tls://223.5.5.5 218.2.2.2
 [/p.biz/]tls://223.5.5.5 218.2.2.2
 [/p.bstarstatic.com/]tls://223.5.5.5 218.2.2.2
-[/p.cdn.persaas.dell.com/]tls://223.5.5.5 218.2.2.2
 [/p023.com/]tls://223.5.5.5 218.2.2.2
 [/p0371.com/]tls://223.5.5.5 218.2.2.2
 [/p0431.com/]tls://223.5.5.5 218.2.2.2
@@ -80487,7 +80468,6 @@
 [/sceeo.com/]tls://223.5.5.5 218.2.2.2
 [/sceia.org/]tls://223.5.5.5 218.2.2.2
 [/scemrq.com/]tls://223.5.5.5 218.2.2.2
-[/scene7-cdn.dell.com/]tls://223.5.5.5 218.2.2.2
 [/scengine.com/]tls://223.5.5.5 218.2.2.2
 [/scenictc.com/]tls://223.5.5.5 218.2.2.2
 [/scensmart.com/]tls://223.5.5.5 218.2.2.2
@@ -84017,7 +83997,6 @@
 [/si-era.com/]tls://223.5.5.5 218.2.2.2
 [/si-in.com/]tls://223.5.5.5 218.2.2.2
 [/si-win.com/]tls://223.5.5.5 218.2.2.2
-[/si.cdn.dell.com/]tls://223.5.5.5 218.2.2.2
 [/sia1995.net/]tls://223.5.5.5 218.2.2.2
 [/siad-c.com/]tls://223.5.5.5 218.2.2.2
 [/siaedu.net/]tls://223.5.5.5 218.2.2.2
@@ -84933,7 +84912,6 @@
 [/sm-check.com/]tls://223.5.5.5 218.2.2.2
 [/sm-cq.com/]tls://223.5.5.5 218.2.2.2
 [/sm-main.com/]tls://223.5.5.5 218.2.2.2
-[/sm.dell.com/]tls://223.5.5.5 218.2.2.2
 [/sm0.fun/]tls://223.5.5.5 218.2.2.2
 [/sm160.com/]tls://223.5.5.5 218.2.2.2
 [/sm160.net/]tls://223.5.5.5 218.2.2.2
@@ -85238,9 +85216,7 @@
 [/snowkey.com/]tls://223.5.5.5 218.2.2.2
 [/snowlotusgroup.com/]tls://223.5.5.5 218.2.2.2
 [/snowyimall.com/]tls://223.5.5.5 218.2.2.2
-[/snp.cdn.dell.com/]tls://223.5.5.5 218.2.2.2
 [/snpac.com/]tls://223.5.5.5 218.2.2.2
-[/snpi.dell.com/]tls://223.5.5.5 218.2.2.2
 [/snps.tech/]tls://223.5.5.5 218.2.2.2
 [/snptc.com/]tls://223.5.5.5 218.2.2.2
 [/snrat.com/]tls://223.5.5.5 218.2.2.2
@@ -87049,7 +87025,6 @@
 [/support.apple.com/]tls://223.5.5.5 218.2.2.2
 [/support.dji.com/]tls://223.5.5.5 218.2.2.2
 [/support.globalsign.com/]tls://223.5.5.5 218.2.2.2
-[/supportassist.dell.com/]tls://223.5.5.5 218.2.2.2
 [/supreme-oe.com/]tls://223.5.5.5 218.2.2.2
 [/supwisdom.com/]tls://223.5.5.5 218.2.2.2
 [/supwk.com/]tls://223.5.5.5 218.2.2.2
@@ -91800,7 +91775,6 @@
 [/toysol.com/]tls://223.5.5.5 218.2.2.2
 [/tp-data.com/]tls://223.5.5.5 218.2.2.2
 [/tp-hivi.com/]tls://223.5.5.5 218.2.2.2
-[/tp.louisvuitton.com/]tls://223.5.5.5 218.2.2.2
 [/tp82.com/]tls://223.5.5.5 218.2.2.2
 [/tpadx.com/]tls://223.5.5.5 218.2.2.2
 [/tpbook.com/]tls://223.5.5.5 218.2.2.2
@@ -93780,7 +93754,6 @@
 [/upkao.com/]tls://223.5.5.5 218.2.2.2
 [/upkk.com/]tls://223.5.5.5 218.2.2.2
 [/upkuajing.com/]tls://223.5.5.5 218.2.2.2
-[/uplaypc-s-ubisoft.cdn.ubi.com/]tls://223.5.5.5 218.2.2.2
 [/uplookedu.com/]tls://223.5.5.5 218.2.2.2
 [/uplooking.com/]tls://223.5.5.5 218.2.2.2
 [/upluck.cc/]tls://223.5.5.5 218.2.2.2
@@ -99166,7 +99139,6 @@
 [/www-666789.com/]tls://223.5.5.5 218.2.2.2
 [/www-76244.com/]tls://223.5.5.5 218.2.2.2
 [/www-api.dji.com/]tls://223.5.5.5 218.2.2.2
-[/www-csb.dell.com/]tls://223.5.5.5 218.2.2.2
 [/www-jabuank-co-jp.net/]tls://223.5.5.5 218.2.2.2
 [/www-v1.dji.com/]tls://223.5.5.5 218.2.2.2
 [/www.alphassl.com/]tls://223.5.5.5 218.2.2.2
@@ -99178,7 +99150,6 @@
 [/www.cg/]tls://223.5.5.5 218.2.2.2
 [/www.com.my/]tls://223.5.5.5 218.2.2.2
 [/www.dell-brand.com/]tls://223.5.5.5 218.2.2.2
-[/www.dell.com/]tls://223.5.5.5 218.2.2.2
 [/www.destinationurl.com/]tls://223.5.5.5 218.2.2.2
 [/www.dji.com/]tls://223.5.5.5 218.2.2.2
 [/www.djivideos.com/]tls://223.5.5.5 218.2.2.2
