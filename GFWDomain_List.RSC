@@ -226,6 +226,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.palworldgame.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.pureapk.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.recaptcha.net
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.shuaiapi.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.steampowered.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api5.futunn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=apiary.io
@@ -4195,6 +4196,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=x.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=x.company
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=x3guide.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=x86.fr
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xbabe.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xbookcn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=xbtce.com
