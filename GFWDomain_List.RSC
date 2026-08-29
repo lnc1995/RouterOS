@@ -4148,6 +4148,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wplace.live
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wpoforum.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=write.as
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=writesonic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wsj.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wsj.net
