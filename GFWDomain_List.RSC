@@ -1455,6 +1455,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=getlantern.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=getmalus.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=getmdl.io
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=getmonero.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=getoutline.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=getsession.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=getsync.com
@@ -2653,6 +2654,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nhentai.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nic.cz.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nic.gov
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nicoseiga.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nicovideo.jp
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nightswatch.top
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nikke-en.com
