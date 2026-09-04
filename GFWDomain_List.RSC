@@ -903,6 +903,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=csuchen.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=csw.org.uk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ct.org.tw
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ctee.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ctinets.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ctinews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ctinsider.com
@@ -1887,6 +1888,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hkcoc.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hkcoc.weather.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hkdc.us
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hkej.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hket.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hkfaa.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=hkgalden.com
@@ -2309,6 +2311,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=linktr.ee
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=linux.do
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=linux.org.hk
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=linux.sb
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=liquiditytp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=liquidvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=listennotes.com
