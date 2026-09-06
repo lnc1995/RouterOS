@@ -4515,7 +4515,7 @@ add address=117.122.192.0/18 list=CNIP_List
 add address=117.124.0.0/14 list=CNIP_List
 add address=117.124.231.0/24 list=CNIP_List
 add address=117.124.232.0/22 list=CNIP_List
-add address=117.124.237.0/24 list=CNIP_List
+add address=117.124.236.0/23 list=CNIP_List
 add address=117.124.240.0/22 list=CNIP_List
 add address=117.124.244.0/24 list=CNIP_List
 add address=117.124.246.0/24 list=CNIP_List
@@ -7180,7 +7180,7 @@ add address=185.39.51.0/24 list=CNIP_List
 add address=185.75.173.0/24 list=CNIP_List
 add address=185.75.174.0/24 list=CNIP_List
 add address=188.131.128.0/17 list=CNIP_List
-add address=188.220.42.0/24 list=CNIP_List
+add address=188.220.65.0/24 list=CNIP_List
 add address=188.220.68.0/24 list=CNIP_List
 add address=192.102.204.0/22 list=CNIP_List
 add address=192.11.23.0/24 list=CNIP_List
