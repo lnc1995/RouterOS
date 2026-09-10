@@ -107185,6 +107185,7 @@
 [/yuanpanguoji.com/]tls://223.5.5.5 218.2.2.2
 [/yuanqiao.net/]tls://223.5.5.5 218.2.2.2
 [/yuanqiao.pw/]tls://223.5.5.5 218.2.2.2
+[/yuanqidesk.com/]tls://223.5.5.5 218.2.2.2
 [/yuanqilt.com/]tls://223.5.5.5 218.2.2.2
 [/yuanqingsh.com/]tls://223.5.5.5 218.2.2.2
 [/yuanqisenlin.com/]tls://223.5.5.5 218.2.2.2
