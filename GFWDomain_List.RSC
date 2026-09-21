@@ -757,6 +757,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chinesegay.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chinesen.de
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chinesenews.net.au
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chineseposters.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chineseradioseattle.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chineseupress.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=chingcheong.com
@@ -2679,6 +2680,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nordstromrack.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nordvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nos.nl
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=note.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=notepad-plus-plus.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=nottinghampost.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=now.com
