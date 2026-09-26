@@ -613,6 +613,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=c-est-simple.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=c-span.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=c-spanvideo.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=c.go-mpulse.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=c.mi.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=c2cx.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=c3pool.com
@@ -3026,6 +3027,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qianmo.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qiwen.lu
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qmp4.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qobuz.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qoos.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qq.co.za
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=qstatus.com
@@ -3904,6 +3906,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vansky.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vaticannews.va
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vatn.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vava8.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vcf-online.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=vcfbuilder.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=veed.io
