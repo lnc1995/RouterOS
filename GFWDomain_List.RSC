@@ -1398,6 +1398,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=futustatic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=fututrade.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=fututrustee.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=fuyin116.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=fw.cm
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=fxcm-chinese.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=fxnetworks.com
@@ -2552,6 +2553,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mubi.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=mullvad.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=multiply.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=muse.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=music.amazon.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=musixmatch.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=muzi.com
