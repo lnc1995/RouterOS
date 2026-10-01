@@ -4010,6 +4010,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wainao.me
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=walletconnect.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=walletconnect.org
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallhaven.cc
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallmama.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallpapercasa.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=wallsttv.com

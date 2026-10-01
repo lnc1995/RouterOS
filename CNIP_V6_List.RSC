@@ -946,6 +946,7 @@ add address=2402:73e0::/32 list=CNIP_V6_List
 add address=2402:7540::/32 list=CNIP_V6_List
 add address=2402:75c0::/32 list=CNIP_V6_List
 add address=2402:7740::/32 list=CNIP_V6_List
+add address=2402:7820::/32 list=CNIP_V6_List
 add address=2402:7d00::/32 list=CNIP_V6_List
 add address=2402:7d80::/32 list=CNIP_V6_List
 add address=2402:8180::/32 list=CNIP_V6_List
@@ -1244,7 +1245,6 @@ add address=2403:6380:200::/39 list=CNIP_V6_List
 add address=2403:6380:4000::/34 list=CNIP_V6_List
 add address=2403:6380:400::/38 list=CNIP_V6_List
 add address=2403:6380:41::/48 list=CNIP_V6_List
-add address=2403:6380:43::/48 list=CNIP_V6_List
 add address=2403:6380:44::/46 list=CNIP_V6_List
 add address=2403:6380:48::/45 list=CNIP_V6_List
 add address=2403:6380:50::/44 list=CNIP_V6_List
@@ -1747,7 +1747,8 @@ add address=2405:84c0:7000::/36 list=CNIP_V6_List
 add address=2405:84c0:8000::/48 list=CNIP_V6_List
 add address=2405:84c0:8002::/48 list=CNIP_V6_List
 add address=2405:84c0:8006::/48 list=CNIP_V6_List
-add address=2405:84c0:8008::/45 list=CNIP_V6_List
+add address=2405:84c0:800a::/47 list=CNIP_V6_List
+add address=2405:84c0:800c::/46 list=CNIP_V6_List
 add address=2405:84c0:8010::/48 list=CNIP_V6_List
 add address=2405:84c0:8019::/48 list=CNIP_V6_List
 add address=2405:84c0:801c::/46 list=CNIP_V6_List
@@ -2052,15 +2053,21 @@ add address=2406:840:1801::/48 list=CNIP_V6_List
 add address=2406:840:1802::/47 list=CNIP_V6_List
 add address=2406:840:1804::/46 list=CNIP_V6_List
 add address=2406:840:1808::/45 list=CNIP_V6_List
-add address=2406:840:180::/41 list=CNIP_V6_List
 add address=2406:840:1810::/44 list=CNIP_V6_List
+add address=2406:840:181::/48 list=CNIP_V6_List
 add address=2406:840:1820::/43 list=CNIP_V6_List
+add address=2406:840:182::/47 list=CNIP_V6_List
 add address=2406:840:1840::/42 list=CNIP_V6_List
+add address=2406:840:184::/46 list=CNIP_V6_List
 add address=2406:840:1880::/41 list=CNIP_V6_List
+add address=2406:840:188::/45 list=CNIP_V6_List
 add address=2406:840:18::/45 list=CNIP_V6_List
 add address=2406:840:1900::/40 list=CNIP_V6_List
+add address=2406:840:190::/44 list=CNIP_V6_List
 add address=2406:840:1a00::/39 list=CNIP_V6_List
+add address=2406:840:1a0::/43 list=CNIP_V6_List
 add address=2406:840:1c00::/38 list=CNIP_V6_List
+add address=2406:840:1c0::/42 list=CNIP_V6_List
 add address=2406:840:2000::/39 list=CNIP_V6_List
 add address=2406:840:201::/48 list=CNIP_V6_List
 add address=2406:840:202::/47 list=CNIP_V6_List
@@ -2342,6 +2349,7 @@ add address=2406:840:98::/45 list=CNIP_V6_List
 add address=2406:840:9900::/42 list=CNIP_V6_List
 add address=2406:840:9940::/43 list=CNIP_V6_List
 add address=2406:840:9960::/47 list=CNIP_V6_List
+add address=2406:840:9963::/48 list=CNIP_V6_List
 add address=2406:840:9965::/48 list=CNIP_V6_List
 add address=2406:840:9968::/46 list=CNIP_V6_List
 add address=2406:840:996d::/48 list=CNIP_V6_List
@@ -2754,7 +2762,6 @@ add address=2406:840:fee0::/45 list=CNIP_V6_List
 add address=2406:840:fee8::/46 list=CNIP_V6_List
 add address=2406:840:feec::/48 list=CNIP_V6_List
 add address=2406:840:feee::/47 list=CNIP_V6_List
-add address=2406:840:fef1::/48 list=CNIP_V6_List
 add address=2406:840:ff00::/40 list=CNIP_V6_List
 add address=2406:8480::/32 list=CNIP_V6_List
 add address=2406:8500::/32 list=CNIP_V6_List
