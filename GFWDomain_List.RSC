@@ -3269,6 +3269,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=simplex.chat
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sina.com.hk
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sinchew.com.my
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=sing-box.sagernet.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=singaporepools.com.sg
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=singlelogin.se
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=singtao.com
