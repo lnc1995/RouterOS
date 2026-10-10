@@ -100977,6 +100977,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xiaomi.org
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xiaomi.tw
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xiaomiaozai.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xiaomiauto.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xiaomicache.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xiaomicorp.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=xiaomicorp.net

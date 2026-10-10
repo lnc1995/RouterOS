@@ -100975,6 +100975,7 @@
 [/xiaomi.org/]tls://223.5.5.5 218.2.2.2
 [/xiaomi.tw/]tls://223.5.5.5 218.2.2.2
 [/xiaomiaozai.com/]tls://223.5.5.5 218.2.2.2
+[/xiaomiauto.com/]tls://223.5.5.5 218.2.2.2
 [/xiaomicache.com/]tls://223.5.5.5 218.2.2.2
 [/xiaomicorp.com/]tls://223.5.5.5 218.2.2.2
 [/xiaomicorp.net/]tls://223.5.5.5 218.2.2.2
