@@ -6339,6 +6339,7 @@ add address=155.102.80.0/24 list=CNIP_List
 add address=155.102.82.0/23 list=CNIP_List
 add address=155.102.84.0/22 list=CNIP_List
 add address=155.102.91.0/24 list=CNIP_List
+add address=155.102.94.0/24 list=CNIP_List
 add address=155.102.98.0/23 list=CNIP_List
 add address=155.126.176.0/23 list=CNIP_List
 add address=156.107.160.0/23 list=CNIP_List
@@ -6581,7 +6582,7 @@ add address=163.181.26.0/24 list=CNIP_List
 add address=163.181.32.0/20 list=CNIP_List
 add address=163.181.48.0/21 list=CNIP_List
 add address=163.181.56.0/24 list=CNIP_List
-add address=163.181.58.0/23 list=CNIP_List
+add address=163.181.58.0/24 list=CNIP_List
 add address=163.181.60.0/23 list=CNIP_List
 add address=163.181.63.0/24 list=CNIP_List
 add address=163.181.66.0/23 list=CNIP_List
@@ -8968,7 +8969,7 @@ add address=203.93.0.0/16 list=CNIP_List
 add address=203.93.0.0/18 list=CNIP_List
 add address=203.93.117.0/24 list=CNIP_List
 add address=203.93.120.0/21 list=CNIP_List
-add address=203.93.128.0/19 list=CNIP_List
+add address=203.93.144.0/20 list=CNIP_List
 add address=203.93.160.0/20 list=CNIP_List
 add address=203.93.208.0/20 list=CNIP_List
 add address=203.93.224.0/19 list=CNIP_List
@@ -9275,7 +9276,8 @@ add address=211.155.128.0/18 list=CNIP_List
 add address=211.155.128.0/19 list=CNIP_List
 add address=211.155.16.0/20 list=CNIP_List
 add address=211.155.160.0/20 list=CNIP_List
-add address=211.155.176.0/23 list=CNIP_List
+add address=211.155.176.0/22 list=CNIP_List
+add address=211.155.184.0/21 list=CNIP_List
 add address=211.155.208.0/20 list=CNIP_List
 add address=211.155.224.0/19 list=CNIP_List
 add address=211.155.224.0/21 list=CNIP_List
@@ -9662,7 +9664,7 @@ add address=220.154.0.0/20 list=CNIP_List
 add address=220.154.116.0/23 list=CNIP_List
 add address=220.154.128.0/20 list=CNIP_List
 add address=220.154.147.0/24 list=CNIP_List
-add address=220.154.16.0/22 list=CNIP_List
+add address=220.154.16.0/21 list=CNIP_List
 add address=220.154.64.0/20 list=CNIP_List
 add address=220.154.80.0/22 list=CNIP_List
 add address=220.155.0.0/21 list=CNIP_List
