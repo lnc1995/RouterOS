@@ -7193,7 +7193,7 @@ add address=198.208.67.0/24 list=CNIP_List
 add address=198.23.184.0/24 list=CNIP_List
 add address=198.23.195.0/24 list=CNIP_List
 add address=199.182.239.0/24 list=CNIP_List
-add address=199.19.20.0/23 list=CNIP_List
+add address=199.19.21.0/24 list=CNIP_List
 add address=199.19.22.0/24 list=CNIP_List
 add address=199.244.144.0/24 list=CNIP_List
 add address=199.65.192.0/21 list=CNIP_List
@@ -10513,6 +10513,7 @@ add address=43.109.216.0/21 list=CNIP_List
 add address=43.109.22.0/24 list=CNIP_List
 add address=43.109.224.0/23 list=CNIP_List
 add address=43.109.226.0/24 list=CNIP_List
+add address=43.109.237.0/24 list=CNIP_List
 add address=43.109.238.0/23 list=CNIP_List
 add address=43.109.24.0/22 list=CNIP_List
 add address=43.109.28.0/24 list=CNIP_List
