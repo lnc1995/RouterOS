@@ -61,6 +61,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=6parker.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=6parknews.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=7capture.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=7x24hrs.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=8-d.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=85cc.us
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=881903.com
@@ -2463,7 +2464,9 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=meripet.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=merit-times.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=messenger.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=meta.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=meta.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=metaaivm.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=metafilter.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=metamask.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=metart.com

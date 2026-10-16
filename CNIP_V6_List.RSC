@@ -2318,7 +2318,7 @@ add address=2406:840:9101::/48 list=CNIP_V6_List
 add address=2406:840:9103::/48 list=CNIP_V6_List
 add address=2406:840:9104::/46 list=CNIP_V6_List
 add address=2406:840:9108::/45 list=CNIP_V6_List
-add address=2406:840:9112::/47 list=CNIP_V6_List
+add address=2406:840:9113::/48 list=CNIP_V6_List
 add address=2406:840:9114::/46 list=CNIP_V6_List
 add address=2406:840:9118::/45 list=CNIP_V6_List
 add address=2406:840:9120::/43 list=CNIP_V6_List
@@ -3060,6 +3060,7 @@ add address=2408:4014::/31 list=CNIP_V6_List
 add address=2408:4016:1000::/36 list=CNIP_V6_List
 add address=2408:4016:100::/40 list=CNIP_V6_List
 add address=2408:4016:10::/44 list=CNIP_V6_List
+add address=2408:4016:1::/48 list=CNIP_V6_List
 add address=2408:4016:2000::/35 list=CNIP_V6_List
 add address=2408:4016:200::/39 list=CNIP_V6_List
 add address=2408:4016:20::/43 list=CNIP_V6_List
