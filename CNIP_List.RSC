@@ -6123,6 +6123,7 @@ add address=140.249.0.0/16 list=CNIP_List
 add address=140.250.0.0/16 list=CNIP_List
 add address=140.255.0.0/16 list=CNIP_List
 add address=140.75.0.0/16 list=CNIP_List
+add address=141.11.210.0/24 list=CNIP_List
 add address=141.11.219.0/24 list=CNIP_List
 add address=142.70.0.0/16 list=CNIP_List
 add address=142.86.0.0/16 list=CNIP_List
@@ -9500,6 +9501,7 @@ add address=212.129.128.0/17 list=CNIP_List
 add address=212.64.0.0/17 list=CNIP_List
 add address=213.199.169.0/24 list=CNIP_List
 add address=216.105.166.0/24 list=CNIP_List
+add address=217.217.211.0/24 list=CNIP_List
 add address=218.0.0.0/11 list=CNIP_List
 add address=218.0.0.0/12 list=CNIP_List
 add address=218.100.128.0/17 list=CNIP_List
