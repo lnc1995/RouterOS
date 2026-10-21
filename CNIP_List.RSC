@@ -6677,7 +6677,6 @@ add address=163.61.178.0/23 list=CNIP_List
 add address=163.61.202.0/23 list=CNIP_List
 add address=163.61.214.0/23 list=CNIP_List
 add address=163.61.63.0/24 list=CNIP_List
-add address=164.163.236.0/22 list=CNIP_List
 add address=164.52.5.0/24 list=CNIP_List
 add address=164.52.52.0/24 list=CNIP_List
 add address=164.52.61.0/24 list=CNIP_List
