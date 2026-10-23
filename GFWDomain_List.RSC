@@ -862,6 +862,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=compileheart.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=connect.facebook.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=conoha.jp
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=console.typesafe.ai
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=contests.twilio.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cool18.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=coolaler.com
@@ -1417,6 +1418,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g.co
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g0v.social
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=g6hentai.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=ga.jspm.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gab.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gabocorp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=gagaoolala.com
