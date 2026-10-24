@@ -11178,15 +11178,12 @@ add address=43.96.122.0/24 list=CNIP_List
 add address=43.96.124.0/23 list=CNIP_List
 add address=43.96.126.0/24 list=CNIP_List
 add address=43.96.128.0/17 list=CNIP_List
-add address=43.96.16.130/32 list=CNIP_List
 add address=43.96.18.0/24 list=CNIP_List
-add address=43.96.2.130/32 list=CNIP_List
 add address=43.96.20.0/22 list=CNIP_List
 add address=43.96.24.0/22 list=CNIP_List
 add address=43.96.3.0/24 list=CNIP_List
 add address=43.96.30.0/23 list=CNIP_List
 add address=43.96.32.0/22 list=CNIP_List
-add address=43.96.36.130/32 list=CNIP_List
 add address=43.96.37.0/24 list=CNIP_List
 add address=43.96.38.0/24 list=CNIP_List
 add address=43.96.4.0/22 list=CNIP_List
@@ -11205,7 +11202,6 @@ add address=43.96.60.0/24 list=CNIP_List
 add address=43.96.62.0/23 list=CNIP_List
 add address=43.96.64.0/21 list=CNIP_List
 add address=43.96.72.0/22 list=CNIP_List
-add address=43.96.77.131/32 list=CNIP_List
 add address=43.96.78.0/24 list=CNIP_List
 add address=43.96.79.0/24 list=CNIP_List
 add address=43.96.8.0/22 list=CNIP_List

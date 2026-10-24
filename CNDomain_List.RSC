@@ -35924,6 +35924,7 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=ftoc.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=ftourcn.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=ftp.pet
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=ftqq.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=ftsafe.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=ftsfund.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=ftswcc.com
@@ -87558,6 +87559,8 @@ add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=ye
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=szty56.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sztz.org
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=sztzzs.com
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=szu.app
+add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=szu.moe
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=szuavia.org
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=szudad.com
 add forward-to=$dnsserver type=FWD address-list=CNDomain_List match-subdomain=yes name=szunionlab.com
