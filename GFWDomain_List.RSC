@@ -207,6 +207,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anonfiles.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anonymouse.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anthonycalzadilla.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anthropic.auth0.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=anthropic.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=antiwave.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=antpool.com
@@ -576,6 +577,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=brookings.edu
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=brutaltgp.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bsky.app
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bsky.chat
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bsky.network
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bsky.social
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=bt4g.org
@@ -801,7 +803,10 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=clashyun.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=classicalguitarblog.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claude.ai
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claude.app
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claude.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claudemcpcontent.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=claudeusercontent.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=cldr.unicode.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=clearsurance.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=clementine-player.org
