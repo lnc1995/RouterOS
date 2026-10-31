@@ -231,6 +231,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.recaptcha.net
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.shuaiapi.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.steampowered.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=api.themoviedb.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=apiary.io
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=apigee.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=apk.support
@@ -3742,6 +3743,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torproject.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torrentgalaxy.to
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torrentkitty.tv
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torrentleech.org
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torrentprivacy.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torrentproject.se
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=torrenty.org
@@ -4371,6 +4373,7 @@ add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=y
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youtubegaming.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youtubekids.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youversion.com
+add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youversionapi.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youwin.com
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=youxu.info
 add forward-to=$dnsserver type=FWD address-list=GFWDomain_List match-subdomain=yes name=yt.be
