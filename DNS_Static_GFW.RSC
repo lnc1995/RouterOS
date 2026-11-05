@@ -2378,7 +2378,6 @@ add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=m
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=matters.town
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=matthewdgreen.wordpress.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=mattwilcox.net
-add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=maven.neoforged.net
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=mcadforums.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=mcaf.ee
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=mceindex.com
@@ -2587,6 +2586,7 @@ add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=n
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=nekoslovakia.net
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=neo-miracle.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=neodb.social
+add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=neoforged.net
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=neowin.net
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=nephobox.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=netalert.me

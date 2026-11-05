@@ -11,7 +11,7 @@
 [/admeld.com/]10.0.0.9
 [/admob-cn.com/]10.0.0.9
 [/admob.com/]10.0.0.9
-[/ads.youtube.commypikpak.com/]10.0.0.9
+[/ads.youtube.com/]10.0.0.9
 [/adsense.com/]10.0.0.9
 [/adsensecustomsearchads.com/]10.0.0.9
 [/adsenseformobileapps.com/]10.0.0.9
@@ -829,7 +829,7 @@
 [/txcloud.net/]10.0.0.9
 [/txvia.com/]10.0.0.9
 [/unfiltered.news/]10.0.0.9
-[/update.crashlytics.com/]10.0.0.9
+[/update.crashlytics.commypikpak.com/]10.0.0.9
 [/update.googleapis.com/]10.0.0.9
 [/urchin.com/]10.0.0.9
 [/useplannr.com/]10.0.0.9
