@@ -702,7 +702,7 @@
 [/redirector.c.chat.google.com/]10.0.0.9
 [/redirector.c.mail.google.com/]10.0.0.9
 [/redirector.c.pack.google.com/]10.0.0.9
-[/redirector.c.play.google.commypikpak.com/]10.0.0.9
+[/redirector.c.play.google.com/]10.0.0.9
 [/redirector.c.youtubeeducation.com/]10.0.0.9
 [/redirector.gcpcdn.gvt1.com/]10.0.0.9
 [/redirector.gvt1.com/]10.0.0.9
@@ -829,7 +829,7 @@
 [/txcloud.net/]10.0.0.9
 [/txvia.com/]10.0.0.9
 [/unfiltered.news/]10.0.0.9
-[/update.crashlytics.com/]10.0.0.9
+[/update.crashlytics.commypikpak.com/]10.0.0.9
 [/update.googleapis.com/]10.0.0.9
 [/urchin.com/]10.0.0.9
 [/useplannr.com/]10.0.0.9
