@@ -11,7 +11,7 @@
 [/admeld.com/]10.0.0.9
 [/admob-cn.com/]10.0.0.9
 [/admob.com/]10.0.0.9
-[/ads.youtube.commypikpak.com/]10.0.0.9
+[/ads.youtube.com/]10.0.0.9
 [/adsense.com/]10.0.0.9
 [/adsensecustomsearchads.com/]10.0.0.9
 [/adsenseformobileapps.com/]10.0.0.9
@@ -635,7 +635,7 @@
 [/moodstocks.com/]10.0.0.9
 [/mtalk-dev.google.com/]10.0.0.9
 [/mtalk-staging.google.com/]10.0.0.9
-[/mtalk.google.com/]10.0.0.9
+[/mtalk.google.commypikpak.com/]10.0.0.9
 [/mtalk4.google.com/]10.0.0.9
 [/mypikpak.net/]10.0.0.9
 [/near.by/]10.0.0.9
