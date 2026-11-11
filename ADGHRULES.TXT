@@ -635,7 +635,7 @@
 [/moodstocks.com/]10.0.0.9
 [/mtalk-dev.google.com/]10.0.0.9
 [/mtalk-staging.google.com/]10.0.0.9
-[/mtalk.google.commypikpak.com/]10.0.0.9
+[/mtalk.google.com/]10.0.0.9
 [/mtalk4.google.com/]10.0.0.9
 [/mypikpak.net/]10.0.0.9
 [/near.by/]10.0.0.9
@@ -702,7 +702,7 @@
 [/redirector.c.chat.google.com/]10.0.0.9
 [/redirector.c.mail.google.com/]10.0.0.9
 [/redirector.c.pack.google.com/]10.0.0.9
-[/redirector.c.play.google.com/]10.0.0.9
+[/redirector.c.play.google.commypikpak.com/]10.0.0.9
 [/redirector.c.youtubeeducation.com/]10.0.0.9
 [/redirector.gcpcdn.gvt1.com/]10.0.0.9
 [/redirector.gvt1.com/]10.0.0.9
