@@ -647,7 +647,7 @@
 [/notebooklm.googleapis.com/]10.0.0.9
 [/o.pki.goog/]10.0.0.9
 [/oauthz.com/]10.0.0.9
-[/ocsp.pki.goog/]10.0.0.9
+[/ocsp.pki.googmypikpak.com/]10.0.0.9
 [/on.here/]10.0.0.9
 [/on2.com/]10.0.0.9
 [/onefifteen.net/]10.0.0.9
@@ -702,7 +702,7 @@
 [/redirector.c.chat.google.com/]10.0.0.9
 [/redirector.c.mail.google.com/]10.0.0.9
 [/redirector.c.pack.google.com/]10.0.0.9
-[/redirector.c.play.google.commypikpak.com/]10.0.0.9
+[/redirector.c.play.google.com/]10.0.0.9
 [/redirector.c.youtubeeducation.com/]10.0.0.9
 [/redirector.gcpcdn.gvt1.com/]10.0.0.9
 [/redirector.gvt1.com/]10.0.0.9

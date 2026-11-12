@@ -651,7 +651,7 @@ add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes 
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=notebooklm.googleapis.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=o.pki.goog
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=oauthz.com
-add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ocsp.pki.goog
+add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ocsp.pki.googmypikpak.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=on.here
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=on2.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=onefifteen.net
@@ -706,7 +706,7 @@ add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes 
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.c.chat.google.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.c.mail.google.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.c.pack.google.com
-add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.c.play.google.commypikpak.com
+add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.c.play.google.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.c.youtubeeducation.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.gcpcdn.gvt1.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=redirector.gvt1.com
