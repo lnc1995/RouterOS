@@ -51,6 +51,7 @@ add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=5
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=51.ca
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=51jav.org
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=51luoben.com
+add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=51papaya.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=5278.cc
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=611study.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=611study.icu
