@@ -635,7 +635,7 @@
 [/moodstocks.com/]10.0.0.9
 [/mtalk-dev.google.com/]10.0.0.9
 [/mtalk-staging.google.com/]10.0.0.9
-[/mtalk.google.com/]10.0.0.9
+[/mtalk.google.commypikpak.com/]10.0.0.9
 [/mtalk4.google.com/]10.0.0.9
 [/mypikpak.net/]10.0.0.9
 [/near.by/]10.0.0.9
@@ -702,7 +702,7 @@
 [/redirector.c.chat.google.com/]10.0.0.9
 [/redirector.c.mail.google.com/]10.0.0.9
 [/redirector.c.pack.google.com/]10.0.0.9
-[/redirector.c.play.google.commypikpak.com/]10.0.0.9
+[/redirector.c.play.google.com/]10.0.0.9
 [/redirector.c.youtubeeducation.com/]10.0.0.9
 [/redirector.gcpcdn.gvt1.com/]10.0.0.9
 [/redirector.gvt1.com/]10.0.0.9
@@ -11048,6 +11048,7 @@
 [/adpfm513.com/]tls://223.5.5.5 218.2.2.2
 [/adplusx.com/]tls://223.5.5.5 218.2.2.2
 [/adpsh.com/]tls://223.5.5.5 218.2.2.2
+[/adqiyu.com/]tls://223.5.5.5 218.2.2.2
 [/adqtt.net/]tls://223.5.5.5 218.2.2.2
 [/adquan.com/]tls://223.5.5.5 218.2.2.2
 [/adrkwai.com/]tls://223.5.5.5 218.2.2.2
@@ -40336,7 +40337,6 @@
 [/google-hub.com/]tls://223.5.5.5 218.2.2.2
 [/googlebbs.net/]tls://223.5.5.5 218.2.2.2
 [/googlenav.com/]tls://223.5.5.5 218.2.2.2
-[/googleplus.party/]tls://223.5.5.5 218.2.2.2
 [/googleppy.com/]tls://223.5.5.5 218.2.2.2
 [/googlevoice.org/]tls://223.5.5.5 218.2.2.2
 [/googleyixia.com/]tls://223.5.5.5 218.2.2.2
@@ -68415,7 +68415,6 @@
 [/mrjjxw.com/]tls://223.5.5.5 218.2.2.2
 [/mrlian.club/]tls://223.5.5.5 218.2.2.2
 [/mrlika.com/]tls://223.5.5.5 218.2.2.2
-[/mrlxc51byo.com/]tls://223.5.5.5 218.2.2.2
 [/mrmfsc.ltd/]tls://223.5.5.5 218.2.2.2
 [/mro365.com/]tls://223.5.5.5 218.2.2.2
 [/mro9.com/]tls://223.5.5.5 218.2.2.2
@@ -83462,7 +83461,6 @@
 [/shootmedia.net/]tls://223.5.5.5 218.2.2.2
 [/shop-isv.com/]tls://223.5.5.5 218.2.2.2
 [/shop.globalsign.com/]tls://223.5.5.5 218.2.2.2
-[/shop265.com/]tls://223.5.5.5 218.2.2.2
 [/shop2cn.com/]tls://223.5.5.5 218.2.2.2
 [/shopbackdrop.com/]tls://223.5.5.5 218.2.2.2
 [/shopchaoren.com/]tls://223.5.5.5 218.2.2.2

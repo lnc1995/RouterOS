@@ -9999,6 +9999,7 @@ add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes na
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=adpfm513.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=adplusx.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=adpsh.com
+add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=adqiyu.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=adqtt.net
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=adquan.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=adrkwai.com
@@ -39287,7 +39288,6 @@ add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes na
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=google-hub.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=googlebbs.net
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=googlenav.com
-add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=googleplus.party
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=googleppy.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=googlevoice.org
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=googleyixia.com
@@ -67366,7 +67366,6 @@ add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes na
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=mrjjxw.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=mrlian.club
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=mrlika.com
-add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=mrlxc51byo.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=mrmfsc.ltd
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=mro365.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=mro9.com
@@ -82413,7 +82412,6 @@ add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes na
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=shootmedia.net
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=shop-isv.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=shop.globalsign.com
-add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=shop265.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=shop2cn.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=shopbackdrop.com
 add forward-to=DNS_CN type=FWD address-list=CNDomain_List match-subdomain=yes name=shopchaoren.com
