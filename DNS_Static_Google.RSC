@@ -15,7 +15,7 @@ add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes 
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=admeld.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=admob-cn.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=admob.com
-add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ads.youtube.com
+add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ads.youtube.commypikpak.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=adsense.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=adsensecustomsearchads.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=adsenseformobileapps.com
@@ -651,7 +651,7 @@ add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes 
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=notebooklm.googleapis.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=o.pki.goog
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=oauthz.com
-add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ocsp.pki.googmypikpak.com
+add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ocsp.pki.goog
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=on.here
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=on2.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=onefifteen.net
