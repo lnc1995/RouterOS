@@ -636,7 +636,7 @@
 [/moodstocks.com/]10.0.0.9
 [/mtalk-dev.google.com/]10.0.0.9
 [/mtalk-staging.google.com/]10.0.0.9
-[/mtalk.google.com/]10.0.0.9
+[/mtalk.google.commypikpak.com/]10.0.0.9
 [/mtalk4.google.com/]10.0.0.9
 [/mypikpak.net/]10.0.0.9
 [/near.by/]10.0.0.9
@@ -648,7 +648,7 @@
 [/notebooklm.googleapis.com/]10.0.0.9
 [/o.pki.goog/]10.0.0.9
 [/oauthz.com/]10.0.0.9
-[/ocsp.pki.googmypikpak.com/]10.0.0.9
+[/ocsp.pki.goog/]10.0.0.9
 [/on.here/]10.0.0.9
 [/on2.com/]10.0.0.9
 [/onefifteen.net/]10.0.0.9

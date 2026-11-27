@@ -640,7 +640,7 @@ add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes 
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=moodstocks.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=mtalk-dev.google.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=mtalk-staging.google.com
-add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=mtalk.google.com
+add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=mtalk.google.commypikpak.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=mtalk4.google.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=mypikpak.net
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=near.by
@@ -652,7 +652,7 @@ add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes 
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=notebooklm.googleapis.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=o.pki.goog
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=oauthz.com
-add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ocsp.pki.googmypikpak.com
+add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=ocsp.pki.goog
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=on.here
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=on2.com
 add forward-to=DNS_!CN type=FWD address-list=!CNDomain_List match-subdomain=yes name=onefifteen.net
