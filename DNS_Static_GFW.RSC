@@ -138,6 +138,7 @@ add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=a
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=agro.hk
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=ai.dev
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=ai.studio
+add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=aicu.cc
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=aidc.com.tw
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=aihub.top
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=aiosearch.com
@@ -903,6 +904,7 @@ add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=d
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=daliulian.org
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=danbooru.donmai.us
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=danke4china.net
+add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=danmakus.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=darmau.co
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=darpa.mil
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=darrenliuwei.com
@@ -3359,6 +3361,7 @@ add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=s
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=southnews.com.tw
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=southpark.cc.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=sowers.org.hk
+add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=spacedesk.net
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=spaceforce.mil
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=spaces.hightail.com
 add forward-to=DNS_!CN type=FWD address-list=GFW_List match-subdomain=yes name=spacex.com
